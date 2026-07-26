@@ -1,3 +1,7 @@
+{ vim: set tw=80 sw=2 ts=2 sw=2 smartindent expandtab: }
+
+
+
                  LES CHEFS-D'ŒUVRE DE LA LITTÉRATURE EXPLIQUÉS
         Publiés sous la Direction de RENÉ DOUMIC de l'Académie Française
 
@@ -90,13 +94,13 @@ ces études. J’en ai publié (1924-1930), les résultats derniers en douze vol
 qui, malgré leur technologie, ont trouvé des lecteurs, même en dehors des
 érudits et des hellénisants.
 
-Dans les trots volumes de l’Odyssée, Poésie homérique, j'ai tâché de donner une
+Dans les trois volumes de l’Odyssée, Poésie homérique, j'ai tâché de donner une
 édition critique et une traduction en français du XXe siècle de ce texte
 traditionnel, dont les trouvailles de manuscrits grecs en Égypte et de monuments
 pré-helléniques en Crète et en Grèce ont renouvelé la connaissance et doivent
 renouveler la compréhension.
 
-Les trots volumes de l'Introduction à l'Odyssée exposent et légitiment, une à
+Les trois volumes de l'Introduction à l'Odyssée exposent et légitiment, une à
 une, les nouveautés, plus apparentes que réelles, qui pourraient surprendre le
 lecteur de mon édition et traduction : choix et orthographe des mots,
 suppressions et corrections de vers, répartition de la « Poésie » unitaire en
@@ -456,47 +460,32 @@ devient impossible : le Rachat d’ Hector est une copie récente du Voyage de
 Télémaque ; l'un des épisodes secondaires de la jeune Odyssée est antérieur à
 l'épisode principal de la vieille Iliade...
 
-En traduisant les aventures d’Ulysse et de
-Télémaque, il faut donc avoir toujours devant les
-yeux ou dans l’esprit les merveilles de l’art
-minoen et mycénien, les poignards, lions et monu-
-ments de Mycénes, les taureaux de Vaphio, les
+En traduisant les aventures d’Ulysse et de Télémaque, il faut donc avoir
+toujours devant les yeux ou dans l’esprit les merveilles de l’art minoen et
+mycénien, les poignards, lions et monuments de Mycènes, les taureaux de Vaphio,
+les fresques, intailles et vaisselle de Cnossos, les plans et restaurations de
+Tirynthe, — tous les souvenirs et produits de cette civilisation féodale,
+luxueuse, dorée, que, durant le dernier demi-siècle, nous ont rendus les
+fouilles des Schliemann et des Evans et qui ressuscitent en Grèce, avant le
+« moyen âge » des Doriens, une plus vieille antiquité et une culture
+trimillénaire.
 
-28 L’ODYSSEE
-
-fresques, intailles et vaisselle de Cnossos, les plans
-et restaurations de Tirynthe, — tous les souvenirs
-et produits de cette civilisation féodele, luxueuse,
-dorée, que, durant Je dernier demi-siècle, nous ont
-rendus les fouilles des Schliemann et des Evans et
-qui ressuscitent en Gréce, avant le « moyen age »
-des Doriens, une plus vieille antiquité et une
-culture t:imillénaire.
-
-Car il semble vraiment que Voltaire ait eu
-comme une divination le jour ot, constatant dans
-Vhistoire des Hellénes, entre l’époque d’Agamem-
-non et celle de Périclés, le méme trou de clair-
-obscur, puis d’ombre et de barbarie que dans lhis-
-toire des Occidentaux, entre l’époque de Trajan et
-celle de Louis IX, il employa le mot de « moyen
-age grec », pour qualifier ces débuis de la Gréce
-class:que. Entre les xv@ et x1¢ siècles avant notre
-ere, en efiet, deux invasions de Barbares, descen-
-dus de |’Europe continentale, semble-t-il, celle
+Car il semble vraiment que Voltaire ait eu comme une divination le jour où, constatant dans
+l'histoire des Hellènes, entre l’époque d’Agamemnon et celle de Péricles, le même trou de clair-
+obscur, puis d’ombre et de barbarie que dans l'histoire des Occidentaux, entre l’époque de Trajan et
+celle de Louis IX, il employa le mot de « moyen âge grec », pour qualifier ces débuts de la Grèce
+classique. Entre les XVe et XIe siècles avant notre ère, en effet, deux
+invasions de Barbares, descendus de l’Europe continentale, semble-t-il, celle
 des Achéens d’abord et celle des Doriens ensuite,
-vinrent, 4 deux reprises, ébranler, puis expulscr
-de J’Hellade curopéenne l’antique civilisation
+vinrent, à deux reprises, ébranler, puis expulscr
+de J’Hellade européenne l’antique civilisation
 « mycénienne », qui, durant le second millénaire
-avant notre ère, avait été l’associée, ]’éléve,
-peut-étre la sujette des riches et savantes civili-
-sations du Levant et en était devenue l’émule.
+avant notre ère, avait été l’associée, j’éléve,
+peut-être la sujette des riches et savantes civilisations du Levant et en était devenue l’émule.
 
-De ces deux invasions, il semble qu’au début du
-xvé siècle (?), la premiére ait été la moins violente,
+De ces deux invasions, il semble qu'au début du
+XVe siècle (?), la première ait été la moins violente,
 la moins nombreuse ou la moins barbare : ayant
-
-SS
 
 LE « POETE » ET LES « POESIES » 29
 
@@ -12344,5 +12333,3 @@ Mexuotrée, Imp. — Paris-Chateauroux.
 263
 313
 34%
-
-#VIM_MODELINE vim: tw=80 sw=2 ts=2 sw=2 smartindent expandtab
