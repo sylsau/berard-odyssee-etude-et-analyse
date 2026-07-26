@@ -29,4 +29,4 @@ Il faut utiliser l'excellent programme ScanTailor Advanced (v2019.8.16).
 
   $ tesseract --list-langs # si besoin
   $ ocrmypdf -l fra --title "L'Odyssée d'Homère : Etude et Analyse" \
-    --author "Victor Bérard" --optimize 3 --sidecar ocr.txt scan.pdf scan+ocr.pdf
+    --author "Victor Bérard" --optimize 3 --sidecar bérard.txt scan.pdf scan+ocr.pdf
