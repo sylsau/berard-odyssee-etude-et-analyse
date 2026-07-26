@@ -23,7 +23,7 @@ Il faut utiliser l'excellent programme ScanTailor Advanced (v2019.8.16).
 
 4) Créer un fichier TIF des images compilés puis un PDF (nécessite libtiff-tools) :
 
-   $ tiffcp p*tif -c lzw scan.tif &&  tiff2pdf scan.tif > scan.pdf
+   $ tiffcp p*tif -c lzw scan.tif &&  tiff2pdf scan.tif -o scan.pdf
 
 5) Appliquer un traitement ROC/OCR avec tesseract et ocrmypdf :
 
