@@ -1,0 +1,25 @@
+Ce travail est bien entendu dans le domaine public.
+
+			  POUR RECRÉER LE PDF D'APRÈS
+	       L'ORIGINAL SCANNÉ PAR L'UNIVERSITÉ DE CÔTE D'AZUR
+
+Il faut utiliser l'excellent programme ScanTailor Advanced (v2019.8.16).
+
+0) Obtenir le scan d'origine de l'Université Côte D'Azur (~ 300 Mo) : https://humazur.univ-cotedazur.fr/s/humazur/item/16591
+
+1) Extraire les pages du document en images haute qualité compatibles avec ScanTailor Advanced :
+
+  $ pdftocairo -r 600 -jpeg -jpegopt "quality=99,optimize=y,progressive=y" ORIG.pdf p
+
+2) Ensuite, modifier le fichier .ScanTailor pour recréer le projet avec les bons chemins : remplacer "{{{CHEMIN_ICI}}}" aux lignes 1 et 3 par le chemin du dossier contenant les images des pages créées à l'étape précédente.
+
+3) Traiter les images avec projet ScanTailor.
+
+4) Créer un fichier TIF des images compilés puis un PDF (nécessite libtiff-tools) :
+
+  $ tiffcp p*tif -c lzw scan.tif &&  tiff2pdf scan.tif > scan.pdf
+
+5) Appliquer un traitement ROC/OCR avec tesseract et ocrmypdf :
+
+  $ tesseract --list-langs # si besoin
+  $ ocrmypdf -l fra --title "L'Odyssée d'Homère : Etude et Analyse" --author "Victor Bérard" --optimize 3 --sidecar ocr.txt scan.pdf scan+ocr.pdf
