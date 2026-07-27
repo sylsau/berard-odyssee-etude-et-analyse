@@ -1,4 +1,4 @@
-{ vim: set tw=80 sw=2 ts=2 sw=2 smartindent expandtab: }
+{ vim: set tw=80 sw=2 ts=2 smartindent expandtab: }
 
 
 
@@ -332,6 +332,9 @@ a conquis l'usage de l’écriture, puis préparé la langue, la métrique, les 
 et les conventions, avec lesquels un écrivain de génie, mais aussi de métier,
 vient enfin doter son peuple d’un chef-d'œuvre.
 
+                                       *
+                                      * *
+
 Deux sciences auxiliaires de l'histoire, -- l'archéologie, par la découverte et
 l'étude des monuments, et la philologie, par 1’étude minutieuse des manuscrits
 et des textes, -- ont, depuis trente années, changé toutes les données de la
@@ -471,285 +474,175 @@ fouilles des Schliemann et des Evans et qui ressuscitent en Grèce, avant le
 « moyen âge » des Doriens, une plus vieille antiquité et une culture
 trimillénaire.
 
-Car il semble vraiment que Voltaire ait eu comme une divination le jour où, constatant dans
-l'histoire des Hellènes, entre l’époque d’Agamemnon et celle de Péricles, le même trou de clair-
-obscur, puis d’ombre et de barbarie que dans l'histoire des Occidentaux, entre l’époque de Trajan et
-celle de Louis IX, il employa le mot de « moyen âge grec », pour qualifier ces débuts de la Grèce
+Car il semble vraiment que Voltaire ait eu comme une divination le jour où,
+constatant dans l'histoire des Hellènes, entre l’époque d'Agamemnon et celle de
+Périclès, le même trou de clair-obscur, puis d’ombre et de barbarie que dans
+l'histoire des Occidentaux, entre l’époque de Trajan et celle de Louis IX, il
+employa le mot de « moyen âge grec », pour qualifier ces débuts de la Grèce
 classique. Entre les XVe et XIe siècles avant notre ère, en effet, deux
 invasions de Barbares, descendus de l’Europe continentale, semble-t-il, celle
-des Achéens d’abord et celle des Doriens ensuite,
-vinrent, à deux reprises, ébranler, puis expulscr
-de J’Hellade européenne l’antique civilisation
-« mycénienne », qui, durant le second millénaire
-avant notre ère, avait été l’associée, j’éléve,
-peut-être la sujette des riches et savantes civilisations du Levant et en était devenue l’émule.
+des Achéens d’abord et celle des Doriens ensuite, vinrent, à deux reprises,
+ébranler, puis expulser de l’Hellade européenne l’antique civilisation
+« mycénienne », qui, durant le second millénaire avant notre ère, avait été
+l’associée, l'élève, peut-être la sujette des riches et savantes civilisations
+du Levant et en était devenue l’émule.
 
-De ces deux invasions, il semble qu'au début du
-XVe siècle (?), la première ait été la moins violente,
-la moins nombreuse ou la moins barbare : ayant
+De ces deux invasions, il semble qu'au début du XVe siècle (?), la première ait
+été la moins violente, la moins nombreuse ou la moins barbare : ayant moins
+conquis et ruiné, que mis en servage et sujétion la population antérieure, les
+rois et seigneurs achéens et leur chevalerie furent rapidement conquis aux
+moeurs de leurs sujets. Par eux, la culture mycénienne subit du XVe au XIIe
+siècle une décadence, mais non pas une éclipse : les usages et les souvenirs en
+subsistent dans les poèmes homériques, qui sont la « geste » des héros achéens ;
+le roi des rois vivait a Mycènes; le manoir d’Ulysse était, de tous points,
+semblable au manoir de Tirynthe.
 
-LE « POETE » ET LES « POESIES » 29
-
-moins conquis et ru:né, que mis en servage et sujé-
-tion la population antérieure, les rois et seigneurs
-achéens et leur chevalerie furent rapidement con-
-quis aux moeurs de leurs sujets. Par eux, la
-culture mycénienne subit du xve au xiIe siècle
-une décadence, mais non pas une éclipse : les
-usages et les souvenirs en subsistent dans les poé-
-mes homériques, qui sont la « geste » des héros
-achéens ; le roi des rois vivait a Mycénes; le
-manoir d’Ulysse était, de tous points, semblable
-au manoir de Tirynthe.
-
-Vaincus et dépouillés a leur tour par l invasion
-des ba:.des doriennes, qui survint trois ou quatre
-cents ans plus tard, nombre de chefs achéens quit-
-térent le Péloponnése et, pren.nt la téte de l’émi-
-gration ionienne (x1é siècle), emportérent avec eux
-vers les iles et rivages de ]’Asie Mineure cet héri-
-tage amoindri. De Chios a Milet, ils Vimplantérent
-en leurs cités nouvelles. Jusqu’aux guerres médi-
-ques du vie siècle, l’Ionie devint le centre de l’art
-et de la pensée helléniques. Tandis que le « moyen
-age » dor-en (X1e-vile s écles) s’appesantissait sur la
-Gréce propre, les relations continuées ou reprises
-avec les civilisations du Levant donnaient son plein
-esscr au génie ionien, dont l’auteur ou les auteurs
-de l’Iliade et de lOdyssée restent pour nous les
+Vaincus et dépouillés à leur tour par l'invasion des bandes doriennes, qui
+survint trois ou quatre cents ans plus tard, nombre de chefs achéens quittèrent
+le Péloponnèse et, prenant la tête de l’émigration ionienne (XIe siècle),
+emportèrent avec eux vers les îles et rivages de l’Asie Mineure cet héritage
+amoindri. De Chios a Milet, ils l'implantèrent en leurs cités nouvelles.
+Jusqu’aux guerres médiques du VIe siècle, l’Ionie devint le centre de l’art et
+de la pensée helléniques. Tandis que le « moyen âge » dorien (XIe-VIIe siècles)
+s’appesantissait sur la Grèce propre, les relations continuées ou reprises avec
+les civilisations du Levant donnaient son plein essor au génie ionien, dont
+l’auteur ou les auteurs de l’Iliade et de l'Odyssée restent pour nous les
 incarnations immortelles.
 
-Quand les: premiers Achéens étaient descendus
-en Gréce, vers le xve siècle avant notre ère, les
+Quand les premiers Achéens étaient descendus en Grèce, vers le XVe siècle avant
+notre ère, les Mycéniens et les Égéens, leurs prédécesseurs en ce pays, usaient
+déjà d’une écriture, qui n’était pas encore l’alphabet, mais dont les
+archéologues, dans leurs fouilles de Crète, des Iles, de Troie et du
+Péloponnèse, ont retrouvé des documents antérieurs au second millénaire avant
+J.-C.
 
-dicen
+Faute de pouvoir les déchiffrer, il nous est encore impossible de voir a quels
+usages étendus ou restreints cette antique écriture avait été adaptée.  Les rois
+et seigneurs de l’Archipel en usaient, semble-t-il, pour le classement de leurs
+provisions et richesses, pour l’inventaire de leurs magasins et trésors :
+l’avaient-ils déjà pliée à la chronique de leurs règne et vie, à la notation de
+leurs exploits et aventures, de leurs traditions civiles et religieuses, de
+leurs connaissances historiques et scientifiques, et à la composition littéraire
+? Avaient-ils déjà une prose et une poésie, apparentées, comme les autres
+ouvrages de leurs arts et de leurs industries, aux oeuvres littéraires que nous
+ont laissées l'Asie et l'Égypte ? Il faut, pour répondre, attendre l’heureux
+hasard d’un déchiffrement, dont la plupart de nos érudits n’escomptent plus
+guère la date prochaine, ni même la chance.
 
-30 L’'ODYSSEE
+Les Achéens des générations suivantes réclamèrent pour la dernière et la plus
+glorieuse de leurs dynasties, pour leurs Atrides, petits-fils de Pélops, une
+parenté avec les dynastes de l'Asie Mineure, que dominait alors l’empire
+militaire des Hittites : le déchiffrement des documents hittites laisse
+entrevoir les relations que les « fils d’Achéens », sur les deux rivages de
+l’Archipel, purent entretenir avec ce puissant empire.
 
-|
+La poésie achéenne fut-elle de même souche étrangère que la race de Pélops et
+d’Atrée ? Plus proches voisins, plus intimes alliés ou ennemis des civilisations
+levantines, vassaux et agresseurs, tour a tour, des empires assyrien, chaldéen
+et pharaonique, envahisseurs et exploitants des terres syriennes, ces Hittites
+de race indo-européenne étaient mieux placés que leurs cousins d’Europe pour
+être les premiers disciples et imitateurs des littératures du Levant : nous
+savons qu’ils avaient transcrit dans leur langue les épopées de la Chaldée.
 
-Mycéniens et les i'géens, leurs prédécesseurs en ce
-pays, usaient déja d’une écriture, qui n’était pas
-encore l’alphabet, mais dont les archéologues, dans
-leurs fouilles de Crète, des Iles, de Troie et du Pélo-
-ponnése, ont retrouvé des documents antérieurs au
-second millénaire avant J.-C.
+L’Achaïe des Atrides, aux XIIIe et XIIe siécles avant notre ère, avait-elle déjà
+son épos ? et les petits-neveux des héros en emportèrent-ils outre-mer les modes
+et les thèmes quand, au milieu du XIe siècle, l’invasion du soudard dorien
+chassa du Péloponnése les chefs de leur société aristocratique et les obligea
+d’aller chercher une patrie nouvelle dans les iles et sur les rivages de l'Ionie
+?... Ne fut-ce au contraire qu’en ces cités ioniennes que l’on entendit les
+balbutiements, puis les premières tirades, enfin les grandes scènes et pisses de
+l'épos ?
 
-Faute de pouvoir les déchitfrer, il nous est encore
-impossible de voir a quels usages étondus ou res-.
-treints cette antique écriture avait été adaptée.
-Les rois et seigneurs de l’Archipel en usaient,
-semble-t-il, pour le classement de leurs provisions
-et richesses, pour l’inventaire de leurs magasins et
-trésors : l’avaient-ils déja pliée à la chronique de
-leurs régne et vie, à la notation de leurs exploits et
-aventures, de leurs traditions civiles et religieuses,
-de leurs connaissances historiques et scientifiques,
-et à la composition littéraire ? Avaient-ils déjé
-une prose et une poésie, apzarentées, comme les
-autres ouvrages de leurs arts et de leurs industries,
-aux ceuvres littéraires que nous ont laissées |’ Asie et
-Yi gypte ? Il faut, pour répondre, attendre l’heu-
-reux hasard d’un déchiffrement, dont la plupart de
-nos érudits n’escomptent plus guére la date pro-
-chaine, ni méme la chance.
+Si l’on en croit les poèmes homériques, les rois et chefs achéens, bien avant
+l’émigration vers l’Asie, avaient des aèdes dans leurs manoirs d'Europe. Mais
+on peut affirmer que l’épos ne conquit sa forme définitive et ses chefs-d'oeuvre
+que dans les cités asiatiques et que, soit en Europe, soit en Asie, l'influence
+levantine en aida les progrès, en fournit même de notables éléments.
 
-Les Achéens des générations suivantes réclamé-
-rent pour la derniére et la plus glorieuse de leurs
-dynasties, pour leurs Atrides, petits-fils de Pélops,
-une parenté avec les dynastes de lAsie Mineure,
-que dominait alors l’empire militaire des Hittites :
+L’Égypte avait des récits d’explorations et d’aventures maritimes, la Chaldée
+avait des voyages et des « gestes » de héros et de dieux, mille et deux mille
+ans avant le règne d’Agamemnon : l'auteur du Voyage odysséen de Télémaque apprit
+à connaitre les magies de Protée l’Égyptien soit dans l'original, soit dans une
+imitation phénicicnne ou grecque de ces contes pharaoniques où l’Égypte du XIIIe
+siècle avant notre ère célébrait les aventures et les malheurs de Prouti le
+magicien et, si le roi d'Ithaque a connu de terribles angoisses « dans sa
+recherche des passes de la mer » occidentale (chant XII, vers 259), c’est
+peut-être, que, depuis un ou deux millénaires, la Chaldée, en ses « gestes »
+divines, racontait les malheurs de la déesse et du héros cheminant a travers les
+dangers et les portes de l’Occident. Les vaisseaux et l’écriture des Phéniciens
+ont servi d’intermédiaires entre la Grèce mycénienne puis achéenne, et les
+civilisations et littératures de l’antique Levant.  Les fouilles de Byblos qui
+viennent de nous rendre un texte alphabétique du XIIIe siècle avant j.-C., ont
+achevé de démontrer l’intimité des relations millénaires, que les textes
+hiéroglyphiques nous faisaient apercevoir entre Byblos et l’Égypte.  Les
+archives diplomatiques des Pharaons du XIIIe siècle, découvertes a
+Tell-el-Amarna, nous ont fait, d’autre part, connaitre les relations aussi
+étroites qui unissaient les gens de la côte syrienne aux civilisations et
+écritures de la Chaldée.
 
-Jf
+J'admettrais volontiers que les premiers essais de l’épos ont pu ne pas
+comporter l’écriture : l'aède, dans l'histoire traditionnelle, est un aveugle
+auquel « la Muse, en lui donnant le chant, a été la vue », — par suite la
+lecture et l’écriture ; Homère lui-même devint dans la légende le vieillard
+aveugle, et la transmission d’interminables cantilènes par la seule mémoire a été
+trop scientifiquement constatée chez tels peuples récents de la famille slave
+pour qu’on puisse en nier la possibilité lors des premières inventions épiques
+de la Grèce.
 
-im aah Pols
+Mais de quand datent ces premières inventions ? durant combien de siècles,
+combien de générations, tout au moins, avant celui que nous appelons Homère, les
+ancêtres des Hellènes ont-ils chanté leurs héros ? l’Iliade et l’Odyssée
+sont-elles venues au début ou à l’apogée de cette période épique ?  ont-elles le
+ton et le caractère d’un langage parlé ou d’une littérature écrite ?
 
-LE « POETE » ET LES « POESIES 31
+La fixité de leur langue et la régularité de leur mètre semblent écarter les
+premières de ces hypothèses. Dès le XIIIe siècle avant notre ère, la
+Méditerranée, — après les vingt siècles peut-être d’écriture idéographique, —
+connaissait la révélation intellectuelle de l’alphabet ; même si nous acceptons
+l’opinion d’Hérodote et si nous plaçons l'auteur ou les auteurs de l’Odyssée dès
+le milieu du IXe siècle, il y avait quatre siècles pour le moins qu’avant lui ou
+avant eux, la clientèle de Tyr et de Sidon devait user de l’écriture
+alphabétique.
 
-le déchiffrement des documents hittites lais.e
-entrevoir les relations que les « ils d’Achéens »,
-sur les deux rivages de |’Archipel, purent entre-
-tenir avec ce puissant empire.
+Entre l’invention de l’alphabet et l’Odyssée, il s’écoula deux fois plus de
+temps qu’entre l’invention de l'imprimerie et le Cid ou Andromaque : demander si
+Homère connut l'écriture, c’est demander, je crois, si Corneille et Racine ont
+connu la presse. En tête de la littérature alphabétique des Grecs, l’épos,
+toutes différences gardées, semble avoir été ce que fut la tragédie en tête de
+notre poésie imprimée, — un produit du génie national et le fruit lentement mûri
+de longs efforts indigènes, à coup sûr, mais aussi le brusque résultat d’in-
+fluences et de modes exotiques : en tous pays et toute littérature, — en tout
+art même, — les grands noms, Dante, Ronsard, Shakespeare, Moliére, Voltaire,
+Chateaubriand, Lamartine, Hugo, etc., apparaissent au carrefour d’une tradition
+nationale et d’une intervention étrangère.
 
-La poésie achécnne fut-elle de méme souche
-étrangére que la race de Pélops et d’Airée ? Plus
-proches vi isins, plusintimes alliés ou ennemis des
-civilisations levantines, vassaux et agresseurs,
-tour a tour, des empires assyrien, chaldéen et pha-
-raonique, envahisseurs et exploitants des terres
-syriennes, ces Hittites de race indo-européenne
-éta‘ent mieux placés que leurs cousins d’Europe
-pour étre Jes premiers disciples et imitateurs des
-littératures du Levant : nous savons qu’ils avaient
-transcrit dans leur langue les épopées de la Chaldée.
+J’admettrais donc, presque aussi volontiers que les Achéens, même avant leur
+descente en Grèce, avaient déjà les rudiments de leur épos ; mais je crois
+qu’ils les développèrent et perfectionnèrent grandement dans leurs manoirs de
+Thessalie et du Péloponnése, au contact des civilisations indigènes et
+étrangères, et que l’épos ne conquit sa forme définitive et ses chefs-d'œuvre
+que dans les cours royales des cités d'Ionie.
 
-L’Achaie des Airides, aux xXIIIe et XIIe sié-
-cles avant notre ère, avait-elle déja son épos ? et
-les petits-neveux des héros en emportérent-ils
-outre-mer les modes et les thémes quand, au
-milieu du xI¢ siècle, l’invasion du soudard dorien
-chassa du Péloponnése les chefs de leur société
-aristocratique et les obligea d’aller chercher une
-patrie nouvelle dans les iles et sur les rivages de
-VIonie ?... Ne fut-ce au contraire qu’en ces cités
-ioniennes que l’on entendit les balbutiements,
-puis les premiéres tirades, enfin les grandes scénes
-et picces de Pétos P
+Mais l'histoire grecque, restaurée par nos érudits, garde encore un trou noir
+entre la Grèce mycénienne et la Grèce classique: les cinq ou six siècles qui
+séparent la Mycènes des Atrides et l’Athènes de Pisistrate (1200-600 avant
+J.-C.) nous sont a peu prés inconnus ; de l’Ionie surtout, nous ne savons rien ;
+le Poète et les Sept Sages ne nous apparaissent que dans une brume de légende ;
+aucune fouille patiente et libre ne nous a renseignés encore sur la vie, les
+ouvrages, les parlers et l’écriture de cette Hellade un peu exotique. Combien
+d’années faudra-t-il avant que, librement explorée, elle nous rende en quantité
+suffisante les documents certains ? quand donc Smyrne, Ephése et Milet nous
+ouvriront-elles, comme Cnossos, Mycènes et Tirynthe, toutes les archives de leur
+sol ? quand la terre d’Homère sera-t-elle rendue au monde civilisé ?
 
-5i l’on en croit les poèmes homériques, les rois et
-chefs achéens, bien avant l’émigration vers l’Asie,
+                                       *
+                                      * *
 
-32 L’ODYSSEE
-
-avaient des aédes dans leurs manoirs d'Europe.
-Mais on peut affirmer que l’épos ne conquit sa
-forme définitive et ses chefs-d’ceuvre que dans les
-cités asiatiques et que, soit en Europe, soit en
-Asie, linfluence levantine en aida les progrés, en
-fournit méme de notables éléments.
-
-L’Égypte avait des récits d’explorations et
-J’aventures maritimes, la Chaldée avait des voya-
-ges et des « gestes » de héros et de dieux, mille et
-deux mille ans avant le régne d’Agamemnon
-Vauteur du Voyage odysséen de Ték maque apprit
-a connaitre les magies de Protée l’Égyptien soit
-dans Voriginal, soit dans une imitation phéni-
-cicnne ou grecque de ces contes pharaoniques ot
-l’Eegypte du x11 siècle avant notre ère célébrait
-les aventures et les malheurs de Prouti le magi-
-cien et, si le roi d’Ithaque a connu de terribles an-
-goisses « dans sa recherche des passes de la mer »
-occidentale (chant XII, vers 259), c’est peut-éire,
-que, depuis un ou deux millénaires, la Chaldée, en
-ses « gestes » divines, racontait les malheurs de la
-déesse et du héros cheminant a travers les dangeis
-et les portes de l’Occident. Les vaisseaux et l’écri-
-ture des Phéniciens ont servi d’intermédiaires
-entre la Gréce mycénienne puis achéenne, et les
-civilisations et littératures de l’antique Levant.
-Les fouilles de Byblos qui viennent de nous
-rendre un texte alphabélique du x111°¢ siècle avant
-j.-C., ont athevé de démontre: ]’intimité des rela-
-
--_
-
-ep eT — ee ne
-
-LE « POETE » ET LES « POESIES » 33
-
-tions millénaires, que les textes hiéroglyphiques
-nous faisaient apercevoir entre Byblos et l’Égypte.
-Les archives diplomatiques des Pharaons du
-xe siècle, découvertes a Tell-el-Amarna, nous
-ont fait, d’autre part, connaitre les relaticns aussi
-étroites qui unissaient les gens de la céte syrienne
-aux civilisations et écritures de la Chaldée.
-
-J’admettrais volontiers que les premiers essais
-de l’épos ont pu ne pas comporter l’écriture : laéde,
-dans Vhistoire traditionnelle, est un aveugle
-auquel « la Muse, en lui donnant le chant, a été la
-vue », — par suite la lecture et ’écriture ; Homère
-lui-méme devint dans la légende le vieillard aveu-
-gle, et la transm’ssion d’interminables cantilénes
-par la seule mémoire a été trop scientifiquement
-constatée chez tels peuples récents de la famille
-slave pour qu’cn puisse en nier la possibilité lors
-des premiéres inventions épiques de la Gréce.
-
-Mais de quand datent ces premiéres inventions ?
-durant combien de siècles, combien de générations,
-tout au moins, avant celui que nous appelons
-Homère, les ancétres des Hellénes ont-ils chanté
-leurs héros ? l’Ihade et l’Ody'ssée sont-clles venues
-au début ou a l’apogée de cette période épique ?
-ont-elles le ton et le caractére d’un langage parlé
-ou d’une littérature écrite ?
-
-La fixité de leur langue et la régularité de leur
-métre semblent écarter les premiéres de ces hypo-
-théses. dès le x111¢ siècle avant notre ère, la Médi
-
-
-
-terranée, — après les vingt siècles peut-étre d’écri-
-ture idéographique, — connaissait la révélation
-intellectuelle de l’alphabet ; méme si nous accep-
-tons l’opinion d’Hérodote et si nous placons
-Vauteur ou les auteurs de l’Odyssée dès le milieu du
-1xe siècle, il y avait quatre siècles pour le moins
-qu’avant lui ou avant eux, la clientéle de Tyr et de
-Sidon devait user de l’écriture alphabétique.
-Entre l’invention de l’alphabet et l’Odyssée, il
-s’écoula deux fois plus de temps qu’entre l’inven-
-tion de limprimerie et le Cid au Andvomaque :
-demander si Homère connut Jécriture, c’est
-demander, je crois, si Corneille et Racine ont connu
-la presse. En téte de la littérature alphabétique des
-Grecs, l’épos, toutes différences gardées, semble
-avoir été ce que fut la tragédie en 1éte de noire
-poésie imprimée, — un produit du génie national
-et le fruit lentement miiri de longs efforts indigénes,
-à coup str, mais aussi le brusque résultat d’in-
-fluences et de modes exotiques : en tous pays et
-toute li‘iérature, — en tout art méme, — les
-grands noms, Dante, Ronsard, Shakespeare, Mo-
-liére, Voltaire, Chateaubriand, Lamariine, Hugo,
-etc., apparaissent au carrefour d’une tradition
-nationale et d’une intervention étrangére.
-J’admettrais donc, presque aussi volontiers que
-les Achéens, méme avant leur descente en Gréce,
-avaient déja les rudiments de leur éfos ; mais je
-crois qu’ils les développérent et perfectionnérent
-
-ce
-————
-
-———— pay Se ty te ee
-
-LE « POETE » ET LES « PO#SIES » 35
-
-grandement dans leurs manoirs de Thessalie et du
-Péloponnése, au contact des civilisations indigénes
-et étrangéres, et que l’épos ne conquit sa foime
-définitive et ses chefs-d’ceuvre que dans les cours
-royales des cités d’Jonie.
-
-Mais Vhistoire grecque, restaurée par nos éru-
-dits, garde encore un trou noir entre la Gréce
-mycénienne et la Gréce classique: les cing ou
-six siècles qui séparent la Mycénes des Atrides
-et l’Athénes de Pisistrate (1200-600 avant J.-C.)
-nous sont a peu prés inconnus ; de l’Ionie sur-
-tout, nous ne savons rien ; le Poète et les Sept
-Sages ne nous apparaissent que dans une brume
-de légende ; aucune fouille patiente et libre ne nous
-a renseignés encore sur la vie, les ouvrages, les par-
-lers et l’écriture de cette Hellade un peu exotique.
-Combien d’années faudra-t-il avant que, librement
-explorée, elle nous rende en quantité suffisante les
-documents certains ? quand donc Smyrne, Ephése
-et Milet nous ouvriront-elles, comme Cnossos,
-Myceénes et Tirynthe, toutes les archives de leur
-sol ? quand la terre d’Homère sera-t-elle rendue au
-monde civilisé ?
-
-*
-*
-
-Les découvertes des archéologues n’ont pu four-
-nir encore aucune certitude sur l’existence d’Ho-
-mére, aucune précision sur le pays et l’époque od
-il vécut, — disent les uns, — ot il ne fut créé, —
-
-a
-
-36 L’ODYSSEE
-
-disent les autres, — que par ia légende populaire ou
-par le calcul et la vanité de ses soi-disant disciples
-et descendants, les aédes « homérides ».
+Les découvertes des archéologues n’ont pu fournir encore aucune certitude sur
+l’existence d'Homère, aucune précision sur le pays et l’époque où il vécut, —
+disent les uns, — où il ne fut créé, — disent les autres, — que par la légende
+populaire ou par le calcul et la vanité de ses soi-disant disciples et
+descendants, les aèdes « homérides ».
 
 Mais les patientes études des philologues nous
 permettent, au bout d’un siècle, de reconstituer
