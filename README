@@ -5,7 +5,8 @@ Ce travail est bien entendu dans le domaine public.
                L'ORIGINAL SCANNÉ PAR L'UNIVERSITÉ DE CÔTE D'AZUR
                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Il faut utiliser l'excellent programme ScanTailor Advanced (v2019.8.16).
+Il faut utiliser l'excellent programme ScanTailor Advanced (v1.0.19) :  
+https://sourceforge.net/projects/scantailor-advanced/files/win/
 
 0) Obtenir le scan d'origine de l'Université Côte D'Azur (~ 300 Mo) : 
    https://humazur.univ-cotedazur.fr/s/humazur/item/16591
@@ -30,3 +31,12 @@ Il faut utiliser l'excellent programme ScanTailor Advanced (v2019.8.16).
   $ tesseract --list-langs # si besoin
   $ ocrmypdf -l fra --title "L'Odyssée d'Homère : Etude et Analyse" \
     --author "Victor Bérard" --optimize 3 --sidecar bérard.txt scan.pdf scan+ocr.pdf
+
+6) Accessoirement, générer un texte plus correct avec un modèle linguistique spécifique, comme p. ex. glm-ocr avec Ollama :
+
+  $ curl -fsSL https://ollama.com/install.sh | sh 	# Installe Ollama
+  $ ollama pull glm-ocr
+  $ ollama run glm-ocr "Text recognition: ./p001.jpg" > ./ocr001.txt
+  $ ollama run glm-ocr "Text recognition: ./p002.jpg" > ./ocr002.txt
+  $ #...
+  $ cat ocr* > ocr.txt
