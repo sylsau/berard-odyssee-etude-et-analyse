@@ -1052,8 +1052,8 @@ et tantôt par
 
 Ces trois mots français m'ont paru également propres à traduire le seul et même mot dont use le Poète. Les mots, en effet, importent beaucoup moins que l'allure générale et la longueur de la formule : dans les plus vieilles éditions homériques, dont les Anciens aient eu connaissance, comme dans les manuscrits que nous a légués l'antiquité plus récente, telles de ces formules d'annonce étaient déjà sujettes à des variantes de mots, qui n'en modifiaient pas le sens général et qui en respectaient pleinement le rôle, le rythme et la longueur, — trois éléments essentiels qu'à mon tour, j'ai tenu à toujours respecter.
 
-*
-**
+                                       *
+                                      * * 
 
 Au total, il faut abandonner l'idée que, depuis plus de vingt siècles, toutes les littératures de l'Occident se sont faites du poème homérique et de l'épos grec, en général. Les Athéniens de Périclès écoutaient et éditaient l'Iliade et l'Odyssée comme des « poèmes dramatiques », comme des pièces de théâtre ou de récitation, et non pas comme l'une de ces interminables histoires en vers qu'imaginèrent et voulurent imiter les auteurs d'Argonautiques, d'Énéide, de Divine Comédie, de Jérusalem délivrée, de Franciade, de Paradis perdu et de Henriade. L'épos fut le drame, par excellence, de cette première Achaïe guerrière et aristocratique, — on peut dire : féodale, — comme la tragédie et la comédie devinrent les drames, par excellence, de la démocratie athénienne. Entre ces diverses époques et formes du théâtre antique, la lyrique des Doriens et des Éoliens fut comme une musique d'entr'acte qui, peu à peu, s'incorpora dans l'épos pour donner enfin la tragédie, avec ses alternances d'épisodes parlés ou dialogués et d'intermèdes musicaux.
 
@@ -1106,8 +1106,8 @@ La tragédie athénienne fut autant influencée par la lyrique des Éoliens et d
 
 Il est, au contraire, des scènes de Racine et des épisodes d'Homère, dont la ressemblance éclate à première lecture : on peut se demander si, dans sa captivité d'Uzès, Racine, traduisant ou annotant et commentant l'Odyssée, n'en tira pas, sinon la conception, du moins le ton et l'allure de sa tragédie ; son Andromaque et son Iphigénie, traduites en achéen-ionien, auraient fait recettes pleines devant les auditoires des cités homériques. Dans la Préface de son Iphigénie, Racine n'a pas manqué de rappeler tout ce qu'il croyait devoir au Poète, aussi bien qu'à Euripide, celui des Tragiques athéniens qu'il admirait entre tous : « J'ai reconnu avec plaisir, par l'effet qu'a produit sur notre théâtre tout ce que j'ai imité ou d'Homère ou d'Euripide, que le bon sens et la raison étaient les mêmes dans tous les siècles ». Et dans tous les siècles, il est des nécessités de ton, de langage, de structure et de distribution qui s'imposent à tous les ouvrages dramatiques et que devaient déjà satisfaire le texte homérique et les drames odysséens.
 
-*
-**
+                                       *
+                                      * *
 
 S'il est un autre élément indispensable de la déclamation scénique, c'est assurément le geste, accompagnement et complément de la parole. Or, tout au long des poèmes homériques, il est des mots, des tirades entières, qui n'ont jamais pu être prononcés par l'auteur ou par ses interprètes, sans le commentaire de la main, des yeux et du visage. L'Iliade et l'Odyssée nous fournissent, chacune, un exemple probant : c'est dans l'Iliade, la scène entre Hélène et Priam sur les Portes Scées et, dans l'Odyssée la scène entre Athéna et Ulysse devant la rade d'Ithaque :
 
@@ -1231,8 +1231,8 @@ Nos poètes tragiques et comiques des XVIIe et XVIIIe siècles ont accaparé, si
 
 Pour rendre cet hexamètre épique, c'est dans l'alexandrin de nos tragédies et de nos comédies qu'un Français du XXe siècle doit, à mon sens, chercher l'indispensable outil de traduction. Hexamètre et alexandrin, les deux vers s'équivalent en longueur et en capacité et se superposent, comme d'eux-mêmes, dans une oreille française.
 
-*
-**
+                                       *
+                                      * *
 
 On peut calquer le second sur le premier :
 
@@ -1318,7 +1318,7 @@ Tous les gens de mon âge, qui ont encore fait des vers latins, connaissent l'ut
 
 Il ne m’a paru « ni peu ni prou duysible » au public du XXe siècle d’avoir des galères subtiles dans sa flotte homérique : galère subtile eût été pour nos oreilles un archaïsme que le mot épique n’était pas pour les oreilles achéennes ou ioniennes ; dans la France du XXe siècle, c’est par le seul mot de croiseur qu’il convient de traduire cette couple.
 
-Chaque siècle, d’autre part, et même chaque génération a sa façon d’utiliser les divers éléments du langage : il est des temps, des années, des saisons où l’adjectif « se porte » plutôt que l’adverbe et le substantif ; il en est d’autres où le style télégraphique réserve toutes ses places pour le substantif et le verbe. Le français du xviie siècle avait su garder à chaque espèce de mots son rôle propre : il se servait de tous. Le français du xxe fait du substantif et du verbe un usage immodéré et il donne à l'adverbe un rôle aussi grand, plus grand même qu'à l'adjectif. Dans le langage de l'épos, l'épithète est souveraine : non seulement, elle remplace l'adverbe qui n'est le plus souvent qu'un neutre d'adjectif ; mais elle sert à des fins où le substantif nous paraît aujourd'hui de rigueur.
+Chaque siècle, d’autre part, et même chaque génération a sa façon d’utiliser les divers éléments du langage : il est des temps, des années, des saisons où l’adjectif « se porte » plutôt que l’adverbe et le substantif ; il en est d’autres où le style télégraphique réserve toutes ses places pour le substantif et le verbe. Le français du xviie siècle avait su garder à chaque espèce de mots son rôle propre : il se servait de tous. Le français du XXe fait du substantif et du verbe un usage immodéré et il donne à l'adverbe un rôle aussi grand, plus grand même qu'à l'adjectif. Dans le langage de l'épos, l'épithète est souveraine : non seulement, elle remplace l'adverbe qui n'est le plus souvent qu'un neutre d'adjectif ; mais elle sert à des fins où le substantif nous paraît aujourd'hui de rigueur.
 
 C'est une « verge d'or », et non une « verge dorée », que porte Hermès. Je crois que le premier vers de l'Odyssée, célèbre « l'Homme aux mille roueries », « aux mille tours », et non pas seulement « un homme astucieux ». Au chant XX, vers 123, les servantes et, au chant XXI, vers 181, Mélantheus raniment « le feu infatigable » : il s'agit de la flamme agile, montante, descendante, dansante, qui sort brusquement de la braise « où l'on conserve la semence du feu ». Le « feu infatigable » ne dit rien à nos sens ni à notre esprit. La « danse de la flamme » m'a paru évoquer l'image de façon plus exacte :
 
@@ -1383,14 +1383,12 @@ Entre notre alexandrin du XXe siècle et l'hexamètre de l'épos, il est une aut
 
 ---
 
-[1] On m'a reproché l'emploi de ce mot, comme trop moderne, cf. A. Jal, Glossaire Nautique : CROISIÈRE (angl. cruise, holl. kruishoek, ital. crociera) action de croiser... pour guetter,
-chasser, combattre et prendre, s’il est possible, des vaisseaux ennemis; CROISEUR, navire qui croise dans certain parrage ; officier qui commande un bâtiment en croisière ; « C’estoit supposer que nous fussions sur les croisières », Duquesne à Seignelay, Scio-Milo, 8-24 octobre 1681.
+[1] On m'a reproché l'emploi de ce mot, comme trop moderne, cf. A. Jal, Glossaire Nautique : CROISIÈRE (angl. cruise, holl. kruishoek, ital. crociera) action de croiser... pour guetter, chasser, combattre et prendre, s’il est possible, des vaisseaux ennemis; CROISEUR, navire qui croise dans certain parrage ; officier qui commande un bâtiment en croisière ; « C’estoit supposer que nous fussions sur les croisières », Duquesne à Seignelay, Scio-Milo, 8-24 octobre 1681.
 
-[2] Certains historiens des mètres antiques pensent que l'hexamètre grec fut la somme de deux tripodies. J'ai toujours compté l'alexandrin comme un double vers de six pieds, admettant la muette en surnombre à la fin du premier
- aussi bien que du second hémistiche.
+[2] Certains historiens des mètres antiques pensent que l'hexamètre grec fut la somme de deux tripodies. J'ai toujours compté l'alexandrin comme un double vers de six pieds, admettant la muette en surnombre à la fin du premier aussi bien que du second hémistiche.
 
-*
-**
+                                       *
+                                      * *
 
 Mais la puissance du rythme ne suffisait pas à conquérir le public ancien.
 
@@ -1425,8 +1423,8 @@ Anciens admiraient les onomatopées qui nous font entendre les coups de la vague
 
 Avec tels autres vers, nous voici sur la route du calembour. Il est difficile de ne pas voir un vrai jeu de mots dans le jeu de lettres posin, epeessi, posin, au chant IV (vers 136-137), quelqu'irrévérencieux envers le bon crieur de Ménélas que puisse être ce rapprochement de pied et d'époux. Nous allons voir par la suite le calembour odusseus-odusao.
 
-*
-**
+                                       *
+                                      * *
 
 Après l'euphonie, les Anciens prônaient la clarté homérique. Une clarté soutenue, rarement fulgurante, plus rarement encore estompée, une grande et vive lumière se joue, disaient-ils sur toutes les façades de l'œuvre où mots, phrases, discours, récits, tout est calculé, « bâti », pour en recevoir et en répercuter l'éclat. Cette atmosphère lumineuse pénètre dans les moindres recoins, sans jamais rien laisser ni dans une ombre douteuse ni dans la torpeur du sommeil : l'obscurité et l'amphibologie sont les signes du parler « non homérique » ; l'art de la bâtisse, l'ordonnance, « l'économie », est la marque du Poète.
 
@@ -1438,8 +1436,7 @@ Dans l'expression de la pensée, il obtient la netteté par l'emploi des mots le
 
 La netteté homérique a pour ennemies la circonlocution, la « profondeur », la diffusion, l'abstraction, et surtout l'amphibologie ; elle ne saurait s'accommoder de la moindre contradiction, apparente ou réelle, dans les termes ou dans les conceptions, ni de l'invraisemblance sous toutes ses formes, — invraisemblance dans le temps, invraisemblance dans la situation, invraisemblance dans les données et convenances du sujet. La netteté est poussée à ce point que ni les mots, ni les phrases, ni le fond, ni la forme ne devaient, au gré des Anciens, soulever la moindre difficulté, aporie, devant l'esprit le plus pointilleux.
 
-Les Commentateurs ajoutaient que le Poète sait, dans la foule des détails ou des aspects,
-choisir ceux qui rendront le mieux visibles les faits ou les personnages, mais qu'il sait aussi « élargir » la description, « interpréter » l'explication ou le récit : son habitude est de ne rien négliger pour l'instruction de ses auditeurs ; il met à profit toutes les occasions de développer soit un thème, soit un épisode, de les orner de nouvelles péripéties ; « héroïquement », « tragiquement » ou « oratoirement », il sait agrandir tous les sujets, comme il sait prendre tous les tons, unir à la simplicité la grandeur, à la précision la noblesse, à la vérité l'éclat, à l'ironie la pitié, à la vraisemblance l'imprévu, à l'aisance la force ; c'est à ce mélange toujours harmonieux, toujours limpide, que se reconnaît la « théorie homérique » de la composition et du style. Au total, le Poète parle de tout comme il convient : la qualité suprême de ses dires est l'aisance, cette facilité simple, sans efforts et sans apprêts, qui est le comble de l'art.
+Les Commentateurs ajoutaient que le Poète sait, dans la foule des détails ou des aspects, choisir ceux qui rendront le mieux visibles les faits ou les personnages, mais qu'il sait aussi « élargir » la description, « interpréter » l'explication ou le récit : son habitude est de ne rien négliger pour l'instruction de ses auditeurs ; il met à profit toutes les occasions de développer soit un thème, soit un épisode, de les orner de nouvelles péripéties ; « héroïquement », « tragiquement » ou « oratoirement », il sait agrandir tous les sujets, comme il sait prendre tous les tons, unir à la simplicité la grandeur, à la précision la noblesse, à la vérité l'éclat, à l'ironie la pitié, à la vraisemblance l'imprévu, à l'aisance la force ; c'est à ce mélange toujours harmonieux, toujours limpide, que se reconnaît la « théorie homérique » de la composition et du style. Au total, le Poète parle de tout comme il convient : la qualité suprême de ses dires est l'aisance, cette facilité simple, sans efforts et sans apprêts, qui est le comble de l'art.
 
 Cette admiration est justifiée de tous points ; mais, souvent exagérée et trop méticuleuse, elle eut des effets parfois malencontreux sur le texte qui nous a été transmis.
 
@@ -1460,8 +1457,8 @@ Un troisième changement s'imposa quand les Poésies devinrent un manuel d'instr
 
 Il n'est pas un récit, pas une phrase du Poète où, dès le début des temps classiques, les trop ingénieux Hellènes n'aient pas cherché la « difficulté » pour l'expliquer, le « problème » pour le résoudre. Porphyre au 111e siècle de notre ère ne fit que résumer ou codifier les travaux de nombreux et lointains prédécesseurs : dès le milieu ou la fin du VIe siècle avant J.-C., le vieux Théagène de Rhégium, « le premier qui écrivit sur Homère », recourait à l'allégorie pour éclairer les passages en discussion ; un siècle plus tard, Métrodore de Lampsaque formulait l'argument de l'« économie », de la « bâtisse », qui allait avoir une telle fortune parmi les homérisants de l'antiquité ; un siècle après, Antisthène, Hippias, Héraclide et Aristote recueillaient les résultats de ces discussions déjà séculaires en leurs Énigmes, Problèmes, Recherches, Solutions homériques, etc. Après eux, la « difficulté » homérique à résoudre devint l'un des jeux de société et de table dont les auteurs de Bouveries et de Banquets approvisionnent le public ; durant six et huit siècles peut-être, la « solution » d'un problème homérique tint chez les Anciens la place que, dans notre société provinciale du XIXe siècle, pouvait tenir la solution d'une charade, d'une énigme ou d'un rébus. Il en résulte que nombre de corrections ont été faites, nombre de vers ont été ajoutés au texte authentique pour satisfaire à ces exigences.
 
-*
-**
+                                       *
+                                      * *
 
 Venaient enfin la civilité, l'urbanité ou, si l'on veut, la courtoisie homérique, — l'astéisme (astu = ville). Dans ce groupe des qualités « urbaines », « civiles », il faut comprendre tout ce qui fait la science et la sagesse, le goût, l'élégance et la finesse, le mouvement et la variété, l'aisance et le sourire, la richesse et le luxe de la ville, par opposition à l'ignorance, à la lourdeur, à la rudesse, à la grossièreté, à la pauvreté, au ridicule et à la monotonie de la campagne, — à la rusticité. Car les Anciens n'ont jamais connu dans le Poète cette naïveté de la parole et cette simplicité de l'esprit, cette énergie enchaînée, ou déchaînée de l'âme que, depuis cent cinquante ans, on veut nous faire admirer en ses vers.
 
@@ -1517,12 +1514,7 @@ la peine d'achever le misérable : il aura tout le
 temps de mourir au grand soleil ou sous la pluie ;
 mouches et chiens pourront le torturer.
 
-Mieux encore : on chercherait vainement dans l'Odyssée la moindre trace des occupations journalières, des besoins et nécessités physiques qui pèsent
-sur la vie du navigateur, sur la nôtre, et que nous
-décrit si abondamment, en son latin d'église et
-en leurs plus ignobles détails, tel bon Allemand du
-XVe siècle, le moine bavarois Félix Faber, dans son
-Itinéraire de la Terre Sainte.
+Mieux encore : on chercherait vainement dans l'Odyssée la moindre trace des occupations journalières, des besoins et nécessités physiques qui pèsent sur la vie du navigateur, sur la nôtre, et que nous décrit si abondamment, en son latin d'église et en leurs plus ignobles détails, tel bon Allemand du XVe siècle, le moine bavarois Félix Faber, dans son Itinéraire de la Terre Sainte.
 
 Sans parler des conseils pratiques et précis qu'il donne aux débutants pour satisfaire les besoins de la digestion, il insiste avec charité sur les précautions « nécessaires et quotidiennes » à prendre contre la vermine : il faut profiter, ajoute-t-il, de la moindre escale sur la première plage, sur le premier rocher, pour se mettre nu et secouer au vent les hôtes incommodes qui n'ont pas manqué d'envahir tous les vêtements et linges et contre lesquels ni soins ni recettes ne prévalent.
 
@@ -1544,103 +1536,123 @@ Le texte des Poésies, tel que nous le lisons dans la Vulgate, est comme la rés
 
 Les trois Critiques alexandrins étaient des écrivains, qui se piquaient même de poésie, mais, avant tout, des érudits et des bibliographes, pour tout dire : des bibliothécaires ; leur charge principale fut de conserver, l'un après l'autre, de compléter et d'administrer les Bibliothèques royales dont les Ptolémées avaient, à grands frais, doté leur capitale d'Alexandrie.
 
-Ces collectionneurs et gardiens de manuscrits travaillèrent sur les vers homériques avec un triple souci : les réunir, les grouper et les organiser en volumes, qui fussent de rangement et de conservation commodes ; faciliter les renvois au texte dans les Mémoires et Commentaires, dont ils accompagnaient leurs éditions savantes ; donner enfin aux copistes et libraires du monde nouveau le modèle canonique et complet du Livre, dont faisait usage désormais toute la Méditerranée
-
-conquise, colonisée ou exploité par les Hellènes et leurs disciples.
+Ces collectionneurs et gardiens de manuscrits travaillèrent sur les vers homériques avec un triple souci : les réunir, les grouper et les organiser en volumes, qui fussent de rangement et de conservation commodes ; faciliter les renvois au texte dans les Mémoires et Commentaires, dont ils accompagnaient leurs éditions savantes ; donner enfin aux copistes et libraires du monde nouveau le modèle canonique et complet du Livre, dont faisait usage désormais toute la Méditerranée conquise, colonisée ou exploité par les Hellènes et leurs disciples.
 
 Grâce aux papyri, nous connaissons mieux aujourd'hui les méthodes et l'œuvre des Alexandrins. Nos prédécesseurs n'avaient, pour juger ces Juges, que les lambeaux de leurs Mémoires et Commentaires dans les notes comprimées, les scholies des manuscrits byzantins. Nous voyons mieux comment et pourquoi ces érudits, quand ils admettaient tels vers ou tel épisode dans l'une ou l'autre des Poésies, ne cachaient ni leurs hésitations, ni même leurs répugnances.
 
-Ils ne s'en rapportaient pas, — comme le croyaient trop volontiers les homérisants du xixe siècle, — à leur goût personnel, à leurs théories ou préférences littéraires : ils disposaient et usaient de tous les moyens d'enquête, de comparaison, de vérification et de choix. Ils avaient dans leurs Bibliothèques royales toutes les copies ou éditions du Poète, que les Ptolémées, à grands frais, avaient collectionnées dans le monde panhellénique et continuaient d'acheter sur toutes les places de fabrication ou de commerce. Or, ils constataient entre ces Homères les divergences les plus grandes. Les éditions de toutes qualités, mais surtout les copies commerciales, — « communes », « vulgaires » ou « démocratiques », disaient-ils, — différaient entre elles moins par le texte que par le nombre des vers et des episodes :
-120 L'ODYSSEE
-
-conquise, colonisée ou exploité par les Hellènes et leurs disciples.
-
-Grâce aux papyri, nous connaissons mieux aujourd'hui les méthodes et l'œuvre des Alexandrins. Nos prédécesseurs n'avaient, pour juger ces Juges, que les lambeaux de leurs Mémoires et Commentaires dans les notes comprimées, les scholies des manuscrits byzantins. Nous voyons mieux comment et pourquoi ces érudits, quand ils admettaient tels vers ou tel épisode dans l'une ou l'autre des Poésies, ne cachaient ni leurs hésitations, ni même leurs répugnances.
-
-Ils ne s'en rapportaient pas, — comme le croyaient trop volontiers les homérisants du xixe siècle, — à leur goût personnel, à leurs théories ou préférences littéraires : ils disposaient et usaient de tous les moyens d'enquête, de comparaison, de vérification et de choix. Ils avaient dans leurs Bibliothèques royales toutes les copies ou éditions du Poète, que les Ptolémées, à grands frais, avaient collectionnées dans le monde panhellénique et continuaient d'acheter sur toutes les places de fabrication ou de commerce. Or, ils constataient entre ces Homères les divergences les plus grandes. Les éditions de toutes qualités, mais surtout les copies commerciales, — « communes », « vulgaires » ou « démocratiques », disaient-ils, — différaient entre elles moins par le texte que par le nombre des vers et des episodes :
-
-si nous en jugeons par les manuscrits sur papyrus récemment retrouvés, la longueur des Poésies et le chiffre de leurs vers pouvaient, aux 1ve et 111e siècles avant notre ère, varier du simple au double, dans l'ensemble, et même au quadruple, dans certaines parties.
+Ils ne s'en rapportaient pas, — comme le croyaient trop volontiers les
+homérisants du XIXe siècle, — à leur goût personnel, à leurs théories ou
+préférences littéraires : ils disposaient et usaient de tous les moyens
+d'enquête, de comparaison, de vérification et de choix. Ils avaient dans leurs
+Bibliothèques royales toutes les copies ou éditions du Poète, que les Ptolémées,
+à grands frais, avaient collectionnées dans le monde panhellénique et
+continuaient d'acheter sur toutes les places de fabrication ou de commerce. Or,
+ils constataient entre ces Homères les divergences les plus grandes. Les
+éditions de toutes qualités, mais surtout les copies commerciales, —
+« communes », « vulgaires » ou « démocratiques », disaient-ils, — différaient
+entre elles moins par le texte que par le nombre des vers et des épisodes : si
+nous en jugeons par les manuscrits sur papyrus récemment retrouvés, la longueur
+des Poésies et le chiffre de leurs vers pouvaient, aux IVe et IIIe siècles avant
+notre ère, varier du simple au double, dans l'ensemble, et même au quadruple,
+dans certaines parties.
 
 Des comparaisons soigneuses amenèrent les Alexandrins à penser qu'au texte primitif, authentique, deux sortes d/additions avaient été faites : des vers, qu'ils appelaient « surnuméraires » ou « superflus », et des vers ou des épisodes adulterins, — « bâtards », disaient-ils.
 
 Les « superflus » étaient des vers authentiquement homériques, mais inutilement ou même sottement répétés en des places où ils n'avaient que faire, quand ils n'y faisaient pas tache ou scandale.
 
-Les « bâtards » étaient des inventions créées de toutes pièces ou faites de pièces et de morceaux; en ces œuvres de faussaires, apparaissaient la marque et, parfois, la date de l'ouvrier : il était des grossières de fond et de forme, des fautes de langage et de goût, des inexactitudes historiques, des contradictions, des anachronismes et des imitations ou des postiches, qui se dénonçaient aux yeux les moins avertis. J'ai dit que les Alexandrins n'expulsaient de leur texte homérique que ceux des « superflus » et des « bâtards », dont la sottise ou la maladresse était trop choquante et dont l'intrusion ne pouvait pas être niée. Ils conservaient la
-
-plupart des autres intrus, même ceux qu'ils jugeaient des plus douteux, des plus indésirables, même ceux que les meilleures des éditions antérieures ne portaient pas.
+Les « bâtards » étaient des inventions créées de toutes pièces ou faites de pièces et de morceaux; en ces œuvres de faussaires, apparaissaient la marque et, parfois, la date de l'ouvrier : il était des grossières de fond et de forme, des fautes de langage et de goût, des inexactitudes historiques, des contradictions, des anachronismes et des imitations ou des postiches, qui se dénonçaient aux yeux les moins avertis. J'ai dit que les Alexandrins n'expulsaient de leur texte homérique que ceux des « superflus » et des « bâtards », dont la sottise ou la maladresse était trop choquante et dont l'intrusion ne pouvait pas être niée. Ils conservaient la plupart des autres intrus, même ceux qu'ils jugeaient des plus douteux, des plus indésirables, même ceux que les meilleures des éditions antérieures ne portaient pas.
 
 Ils les condamnaient, néanmoins, et les notaient en marge de signes d'infamie : la « broche » simple, obel, dénonçait les bâtards ; la « broche à l'étoile », obel astérisqué, dénonçait les superflus ; par contre, l'étoile simple, astérisque, confirmait les vers répétés à la place qu'ils occupaient de manière légitime. Les Critiques dans leurs Mémoires et Commentaires proposaient la « mise de côté », athétèse, des uns et des autres ; mais, dans leurs éditions, ils n'allaient que jusqu'à la « mise à la broche », obélisation.
 
-Il est probable que, malgré le nombre de leurs condamnations et l'audace de quelques-unes, ce choix critique des Alexandrins se serait imposé à tous les lecteurs éduqués et, par suite, à notre « Vulgate », si les Grammairiens de Pergame n'étaient pas survenus. J'ai dit aussi comment ces successeurs et rivaux d'Alexandrie prirent le contrepied des « Juges », rejetant le plus souvent leurs athétèses, conservant, rétablissant toutes les additions des siècles antérieurs, admettant celles du temps présent et aboutissant à ce conservatisme déraisonnable, dont Macrobe nous a donné la formule, en énumérant les opérations que la sagesse populaire, — disait-il, — jugeait impos-
-
-sibles : « arracher à Zeus sa foudre, à Hercule sa massue, et l'un de ses vers à Homère ». Cette mode des « Jeunes » régnait déjà au premier siècle avant notre ère, au temps de Strabon et de Virgile : les citations homériques de Strabon nous le montrent lecteur fidèle d'éditions « plus complètes » que notre Vulgate, et Virgile imite, en le tenant pour authentique, tel passage de l'Odyssée (XI, vers 38-43), que les « Vieux » avaient condamné, athétisé, et que certains de nos manuscrits notent encore de la broche, « obélisent ».
+Il est probable que, malgré le nombre de leurs condamnations et l'audace de quelques-unes, ce choix critique des Alexandrins se serait imposé à tous les lecteurs éduqués et, par suite, à notre « Vulgate », si les Grammairiens de Pergame n'étaient pas survenus. J'ai dit aussi comment ces successeurs et rivaux d'Alexandrie prirent le contrepied des « Juges », rejetant le plus souvent leurs athétèses, conservant, rétablissant toutes les additions des siècles antérieurs, admettant celles du temps présent et aboutissant à ce conservatisme déraisonnable, dont Macrobe nous a donné la formule, en énumérant les opérations que la sagesse populaire, — disait-il, — jugeait impossibles : « arracher à Zeus sa foudre, à Hercule sa massue, et l'un de ses vers à Homère ». Cette mode des « Jeunes » régnait déjà au premier siècle avant notre ère, au temps de Strabon et de Virgile : les citations homériques de Strabon nous le montrent lecteur fidèle d'éditions « plus complètes » que notre Vulgate, et Virgile imite, en le tenant pour authentique, tel passage de l'Odyssée (XI, vers 38-43), que les « Vieux » avaient condamné, athétisé, et que certains de nos manuscrits notent encore de la broche, « obélisent ».
 
 Dès le temps d'Aratus (272-213 avant J.-C.), le meilleur texte des Poésies, — au gré de Timon le philosophe, — était celui qui avait le moins subi de « redressement », de diorthose (diorthose, dans la langue des homérisants, étant devenu presque synonyme d'élagage).
 
 Dans les Histoires de Lucien (II 20), c'est Homère lui-même qui, interrogé aux Enfers, condamne les athétèses de Zénodote, d'Aristarque et des autres et déclare que les vers condamnés par eux sont, tous, de sa propre main.
 
-A qui devons-nous entendre, des Critiques ou des Grammairiens, pour reconstituer le texte primitif ?... Depuis la découverte des papyrí homériques, l'hésitation semble difficile : il peut sembler aventureux, mais il n'est pas paradoxal de dire que nous sommes mieux outillés que les Anciens pour le contrôle des « surperfluités » et « bâtardises »
+A qui devons-nous entendre, des Critiques ou des Grammairiens, pour reconstituer le texte primitif ?... Depuis la découverte des papyri homériques, l'hésitation semble difficile : il peut sembler aventureux, mais il n'est pas paradoxal de dire que nous sommes mieux outillés que les Anciens pour le contrôle des « surperfluités » et « bâtardises » qui dénaturent le texte du Poète Nous sommes de meilleurs astronomes que les Chaldéens qui pourtant, avaient de meilleurs yeux et un ciel plus pur que les nôtres, mais n'avaient pas le téléscope. L’archéologie et la philologie nous ont munis d’instruments et de méthodes dont ne pouvaient pas disposer les Alexandrins, malgré leurs admirables Bibliothèques.
 
-qui dénaturent le texte du Poète Nous sommes de meilleurs astronomes que les Chaldéens qui pourtant, avaient de meilleurs yeux et un ciel plus pur que les nôtres, mais n'avaient pas le téléscope. L’archéologie et la philologie nous ont munis d’instruments et de méthodes dont ne pouvaient pas disposer les Alexandrins, malgré leurs admirables Bibliothèques.
+Pour la commodité de l'exposition, je donnerai le nom d'« insertions » aux vers
+« superflus », aux répétitions inutiles, et celui d'« interpolations » aux vers
+et épisodes « bâtards », aux falsifications proprement dites.
 
-Pour la commodité de l'exposition, je donnerai le nom d'« insertions » aux vers « superflus », aux répétitions inutiles, et celui d'« interpolations » aux vers et épisodes « bâtards », aux falsifications proprement dites.
+                                       *
+                                      * *
 
-**
+Personne n’a jamais nié que la répétition, non seulement de formules plus ou
+moins longues, mais de vers entiers, fût l’un des procédés habituels de la
+versification homérique et que, pour exprimer les mêmes idées et servir aux
+mêmes besoins, les mêmes vers, mot pour mot, lettre pour lettre, revinssent à
+plusieurs reprises dans les passages les plus authentiques. Les hexamètres, qui
+annoncent ou concluent les discours, ceux qui décrivent soit les repas et
+sacrifices, soit les arrivées, départs, et armements de bateaux ou de guerriers,
+etc., fournissent le type le plus commun de ces vers légitimement répétés. Mais
+dans les 27.803 vers du texte actuel, 1.804 reviennent 4.730 fois et, si l'on
+compte ceux qui, sans être tout à fait identiques, sont fabriqués de formules
+semblables, on arrive au total de 9.253 : 5.605 pour l'Iliade, 3.648 pour
+l'Odyssée. Plus d'un tiers des deux Poésies serait fait de répétitions.
 
-Personne n’a jamais nié que la répétition, non seulement de formules plus ou moins longues, mais de vers entiers, fût l’un des procédés habituels de la versification homérique et que, pour exprimer les mêmes idées et servir aux mêmes besoins, les mêmes vers, mot pour mot, lettre pour lettre, revinssent à plusieurs reprises dans les passages les plus authentiques. Les hexamètres, qui annoncent ou concluent les discours, ceux qui décrivent soit les repas et sacrifices, soit les arrivées, départs, et armements de bateaux ou de guerriers, etc., fournissent le type le plus commun de ces vers légitimement répétés. Mais dans les 27.803 vers du texte actuel, 1.804 reviennent 4.730 fois et, si l'on
+Quand les premiers éditeurs modernes héritèrent du texte de la Vulgate
+byzantine, ils admirèrent de bonne foi, comme l'une des beautés les plus
+proprement homériques, ces vers inlassablement, parfois illogiquement, souvent
+même absurdement répétés : il n'y virent que le fruit précieux de cette
+« naïveté » du Poète, dont ils révéraient jusqu'aux maladresses.
 
-compte ceux qui, sans être tout à fait identiques,
-sont fabriqués de formules semblables, on arrive
-au total de 9.253 : 5.605 pour l'Iliade, 3.648 pour
-l'Odyssée. Plus d'un tiers des deux Poésies serait
-fait de répétitions.
+Leurs successeurs récents auraient volontiers proclamé qu'une répétition
+homérique est d'autant moins critiquable qu'elle est moins rationnelle, car le
+radotage leur semblait parfois le propre du Vieillard aveugle, et ils
+alléguaient les naïvetés toutes pareilles des autres « poésies populaires » : la
+sobriété et la variété étant de règle, disaient-ils, dans l'« écriture » des
+lettrés, la répétition et le verbiage sont de style dans la parole chantée du
+peuple ; or, personne au XIXe siècle ne doutait qu'Homère ignorât la lecture et
+l'écriture, et la grande majorité des homérisants admettait ou penchait à
+admettre qu'il n'était qu'une incarnation mythique du vieux peuple achéen, un
+simple prête-nom de ses chanteurs anonymes.
 
-Quand les premiers éditeurs modernes héritèrent du texte de la Vulgate byzantine, ils admirèrent de bonne foi, comme l'une des beautés les plus proprement homériques, ces vers inlassablement, parfois illogiquement, souvent même absurdement répétés : il n'y virent que le fruit précieux de cette « naïveté » du Poète, dont ils révéraient jusqu'aux maladresses.
+Nous avons, à notre tour, reçu et pieusement conservé ce texte homérique : nous
+faisons encore, vers ce milieu du XXe siècle, expliquer à nos élèves des
+passages où figurent telles répétitions absurdes ; le mot, comme on va voir
+sans tarder, n'est pas trop fort, si l'on veut bien comparer entre elles
+quelques descriptions de repas, ou d'embarquements. Je ne puis donner ici que
+deux exemples, pris entre plusieurs centaines.
 
-Leurs successeurs récents auraient volontiers proclamé qu'une répétition homérique est d'autant moins critiquable qu'elle est moins rationnelle, car le radotage leur semblait parfois le propre du Vieillard aveugle, et ils alléguaient les naïvetés toutes pareilles des autres « poésies populaires » : la sobriété et la variété étant de règle, disaient-ils, dans l'« écriture » des lettrés, la répétition et le verbiage sont de style dans la parole chantée du peuple ; or, personne au xixe siècle ne doutait qu'Homère ignorât la lecture et l'écriture, et la grande majorité des homérisants admettait ou penchait à admettre qu'il n'était qu'une incarnation mythique du vieux peuple achéen, un simple prête-nom de ses chanteurs anonymes.
 
-Nous avons, à notre tour, reçu et rieusement
+I. — Aux vers 136-149, du chant Ier de l'Odyssée, deux repas se succèdent dans
+le manoir d'Ithaque : au repas de Télémaque et de la déesse Athéna, qui a pris
+les traits de Mentès, roi des Taphiens (vers 136-143),
 
-conservé ce texte homérique : nous faisons encore,
-vers ce milieu du xxe siècle, expliquer à nos élèves
-des passages où figurent telles répétitions absurdes ;
-le mot, comme on va voir sans tarder, n'est pas
-trop fort, si l'on veut bien comparer entre elles
-quelques descriptions de repas, ou d'embarque-
-ments. Je ne puis donner ici que deux exemples,
-pris entre plusieurs centaines.
+  Vint une chambrière, qui, portant une aiguière en or et du plus beau, leur
+  donnait à laver sur un bassin d'argent et dressait devant eux une table polie.
+  Vint la digne intendante : elle apportait le pain et le mit devant eux. Puis
+  le maître-tranchant, portant haut ses plateaux de viandes assorties, les
+  présenta et leur donna des coupes d'or. Un héraut s'empressait pour leur
+  verser à boire...
 
-I. — Aux vers 136-149, du chant Ier de l'Odyssée,
-deux repas se succèdent dans le manoir d'Itha-
-que : au repas de Télémaque et de la déesse Athéna,
-qui a pris les traits de Mentès, roi des Taphiens
-(vers 136-143),
-
-Vint une chambrière, qui, portant une aiguière
-en or et du plus beau, leur donnait à laver sur un
-bassin d'argent et dressait devant eux une table
-polie. Vint la digne intendante : elle apportait le
-pain et le mit devant eux. Puis le maître-tran-
-chant, portant haut ses plateaux de viandes assor-
-ties, les présenta et leur donna des coupes d'or. Un
-héraut s'empressait pour leur verser à boire...
-
-Vers 140 ; et leur fit les honneurs de toutes ses réserves.
+  Vers 140 : et leur fit les honneurs de toutes ses réserves.
 
 succède le repas des prétendants (vers 144-149) :
 
-On vit alors entrer les fougueux prétendants :
-en ligne, ils prenaient place aux sièges et fauteuils ;
-les hérauts leur donnaient à laver sur les mains ;
-les femmes entassaient le pain dans les corbeilles ;
-puis vers les parts de choix préparées et servies,
-chacun tendait les mains.
+  On vit alors entrer les fougueux prétendants : en ligne, ils prenaient place
+  aux sièges et fauteuils ; les hérauts leur donnaient à laver sur les mains ;
+  les femmes entassaient le pain dans les corbeilles ; puis vers les parts de
+  choix préparées et servies, chacun tendait les mains.
 
-Vers 148 ; la jeunesse remplit jusqu'au bord les cratères.
+  Vers 148 : la jeunesse remplit jusqu'au bord les cratères.
 
-La seule étude des manuscrits byzantins aurait dû mettre en garde nos prédécesseurs. Ce n'est pas, en effet, sur les papyri seulement, c'est aussi sur les parchemins que le nombre des vers varie souvent et notablement : ici, tels de nos manuscrits nous ont transmis le texte entier de la Vulgate et, en plus, des répétitions qu'elle ne comporte pas ; tels autres font disparaître de ce texte des répétitions qu'il comporte.
+La seule étude des manuscrits byzantins aurait dû mettre en garde nos
+prédécesseurs. Ce n'est pas, en effet, sur les papyri seulement, c'est aussi sur
+les parchemins que le nombre des vers varie souvent et notablement : ici, tels
+de nos manuscrits nous ont transmis le texte entier de la Vulgate et, en plus,
+des répétitions qu'elle ne comporte pas ; tels autres font disparaître de ce
+texte des répétitions qu'il comporte.
 
-Si je mets hors de ma traduction, en note, les deux vers 140 et 148, c'est qu'ils sont des répétitions fautives, fâcheuses, des « insertions » évidentes. Certains de nos meilleurs manuscrits omettent 139 ; Suidas omet 140 ; un grand nombre des autres omettent 148 ; d'autres ajoutent un vers supplémentaire 148°, qui n'est que la répétition du vers 340 au chant III ; d'autres enfin, brouillant l'ordre traditionnel, écrivent le vers 148 avant 147 ou 148 avant 148° et 147, ou 149 avant 148.
+Si je mets hors de ma traduction, en note, les deux vers 140 et 148, c'est
+qu'ils sont des répétitions fautives, fâcheuses, des « insertions » évidentes.
+Certains de nos meilleurs manuscrits omettent 139 ; Suidas omet 140 ; un grand
+nombre des autres omettent 148 ; d'autres ajoutent un vers supplémentaire 148°,
+qui n'est que la répétition du vers 340 au chant III ; d'autres enfin,
+brouillant l'ordre traditionnel, écrivent le vers 148 avant 147 ou 148 avant 148
+et 147, ou 149 avant 148.
 
 Or, pour 140, une comparaison avec le chant XV (76-77, 93-94 et 135-139) montre le « déplacé » de ce vers.
 
@@ -1652,156 +1664,299 @@ Les expressions homériques définissent avec précision ces « réserves », 
 
 Voilà donc le repas de fortune ou, si l'on veut, d'occasion. Mais en notre chant I, il ne s'agit aucunement d'un tel repas : Athéna-Mentès est arrivée après le sacrifice, à l'heure où l'on se met à table ; Télémaque l'a fait asseoir au même festin que les prétendants, mais loin d'eux ; tout était préparé ce matin-là (vers 110-112) pour le grand repas quotidien, dans lequel n'ont à figurer ni les mets de la réserve, ni, par suite, le vers 140. Aristarque l'athétisait.
 
-Quant à notre vers 148 du chant I, il figure ici en dépit de sa signification homérique et rituelle : il fait « inconvenance », comme disaient les Alexandrins. C'est à la fin des repas, — non pas au début, — c'est pour l'offrance aux dieux, — non pour la soif des humains, — que le « couronnement des cratères » prend place : au chant XXI de l'Odyssée (vers 270-272), la cérémonie n'a lieu qu'après une journée de festin, quand les prétendants songent à quitter le manoir d'Ulysse ; dans l'Iliade au chant IX (vers 174-176), c'est quand les chefs des Achéens se séparent, et au chant I (vers 470-471), à une autre fin de repas. Un contraste grammatical dans le groupe de nos vers 145-149 peut nous éclairer : le verbe de 148 est à l'aoriste, au milieu de verbes à l'imparfait.
+Quant à notre vers 148 du chant I, il figure ici en dépit de sa signification homérique et rituelle : il fait « inconvenance », comme disaient les Alexandrins. C'est à la fin des repas, — non pas au début, — c'est pour l'offrande aux dieux, — non pour la soif des humains, — que le « couronnement des cratères » prend place : au chant XXI de l'Odyssée (vers 270-272), la cérémonie n'a lieu qu'après une journée de festin, quand les prétendants songent à quitter le manoir d'Ulysse ; dans l'Iliade au chant IX (vers 174-176), c'est quand les chefs des Achéens se séparent, et au chant I (vers 470-471), à une autre fin de repas. Un contraste grammatical dans le groupe de nos vers 145-149 peut nous éclairer : le verbe de 148 est à l'aoriste, au milieu de verbes à l'imparfait.
 
-II. — A la fin du chant XV de notre Odysée, Eumée et Ulysse s'endorment, après s'être conté leurs longues aventures ; mais leur sommeil est court, car voici l'aube (vers 493-495) et déjà, sur la plage du bas, Télémaque et ses compagnons, qui rentrent de leur voyage à Pylos, viennent d'échouer le navire, de le pousser à terre : ils sont à sec ; ils carguent les voiles et démâtent (495-496), puis... se mettent aux rames pour amener à la cale le navire (497) ; ils jettent enfin l'ancre, attachent l'amarre (498), prennent pied sur la grève et préparent le repas du matin (499-500):
 
-Pendant qu'ils échangeaient ces paroles entre eux, prenant sur leur sommeil, puis s'endormaient à peine, l'Aurore était montée sur son trône, et déjà les gens de Télémaque abordaient au rivage, amenaient la voiture et déplantaient le mât, puis sur la grève, où l'équipage descendit, le repas s'apprêta.
+II. — A la fin du chant XV de notre Odysée, Eumée et Ulysse s'endorment, après s'être conté leurs longues aventures ; mais leur sommeil est court, car voici l'aube (vers 493-495) et déjà, sur la plage du bas, Télémaque et ses compagnons, qui rentrent de leur voyage à Pylos, viennent d'échouer le navire, de le pousser à terre : ils sont à sec ; ils carguent les voiles et démâtent (495-496), puis... se mettent aux rames pour amener à la cale le navire (497) ; ils jettent enfin l'ancre, attachent l'amarre (498), prennent pied sur la grève et préparent le repas du matin (499-500) :
 
-Vers 497-498 : en vitesse ; on se met aux rames vers la cale ; on jette l'ancre et l'on attache les amarres.
+  Pendant qu'ils échangeaient ces paroles entre eux, prenant sur leur sommeil, puis s'endormaient à peine, l'Aurore était montée sur son trône, et déjà les gens de Télémaque abordaient au rivage, amenaient la voiture et déplantaient le mât, puis sur la grève, où l'équipage descendit, le repas s'apprêta.
+
+  Vers 497-498 : en vitesse ; on se met aux rames vers la cale ; on jette l'ancre et l'on attache les amarres.
 
 Comment expliquer qu'un navire, une fois mis à sec, puisse être poussé à la rame vers la cale ? Nos deux vers 497-498 sont des copies sans changement de l'Iliade (chant I, vers 435-436). Mais, dans l'Iliade, le navire n'est pas échoué ; il est encore en eau profonde.
 
+
 Tout au long de l'Odyssée et de l'Iliade, on pourrait alléguer cinquante et soixante insertions de mêmes sottises ou de mêmes bavardages, également réparties sur tous les épisodes et tous les chants. La comparaison complète entre toutes les descriptions homériques de repas, d'embarquements ou de débarquements impose les conclusions suivantes :
 
-10 Il paraît certain que, pour allonger, préciser ou embellir les descriptions des Poésies, des vers authentiquement homériques furent inutilement répétés, surnumérairement « insérés » par les réciants ou les copistes, en des endroits où i's n'avaient que faire.
+I° Il paraît certain que, pour allonger, préciser ou embellir les descriptions
+des Poésies, des vers authentiquement homériques furent inutilement répétés,
+surnumérairement « insérés » par les récitants ou les copistes, en des endroits
+où ils n'avaient que faire.
 
-2° Il semble difficile de dater la plupart de ces insertions. En nombre de cas néanmoins, un indice chronologique peut nous être donné par l'absence ou la présence de ces insertions dans tout ou partie de nos manuscrits antiques. En nombre de cas aussi, ces insertions figuraient déjà dans les éditions antérieures aux Alexandrins, qui les déclaient scandaleuses.
+2° Il semble difficile de dater la plupart de ces insertions. En nombre de cas
+néanmoins, un indice chronologique peut nous être donné par l'absence ou la
+présence de ces insertions dans tout ou partie de nos manuscrits antiques. En
+nombre de cas aussi, ces insertions figuraient déjà dans les éditions
+antérieures aux Alexandrins, qui les déclaraient scandaleuses.
 
-3° La plupart de ces insertions semblent être venues s'ajouter au texte de la même façon : la terminaison semblable de deux vers authentiques amena derrière l'un d'eux la suite de l'autre, en des endroits où cette suite n'était ni nécessaire, ni utile, ni même logiquement ou grammaticalement acceptable.
+3° La plupart de ces insertions semblent être venues s'ajouter au texte de la
+même façon : la terminaison semblable de deux vers authentiques amena derrière
+l'un d'eux la suite de l'autre, en des endroits où cette suite n'était ni
+nécessaire, ni utile, ni même logiquement ou grammaticalement acceptable.
 
-L'insertion semble donc être, avant tout, un méfait de la mémoire. A ce titre, il pourrait sembler qu'elle fut avant tout une œuvre de récitant professionnel, de rhapsode.
+L'insertion semble donc être, avant tout, un méfait de la mémoire. A ce titre,
+il pourrait sembler qu'elle fut avant tout une œuvre de récitant professionnel,
+de rhapsode.
 
-Entraîné par la pente de la récitation, le débit du rhapsode était une sorte de torrent fougueux, gonflé des vingt-cinq ou trente mille vers, qu'il fallait savoir pour exercer la profession. Ces vers formaient entre eux des chaînes liquides dont un premier élément entraînait toujours derrière lui la même séquence.
+Entraîné par la pente de la récitation, le débit du rhapsode était une sorte de
+torrent fougueux, gonflé des vingt-cinq ou trente mille vers, qu'il fallait
+savoir pour exercer la profession. Ces vers formaient entre eux des chaînes
+liquides dont un premier élément entraînait toujours derrière lui la même
+séquence.
 
-Mais ces méfaits de la réminiscence nous apparaîtrait peut-être aussi grands dans l'histoire de l'édition antique, si nous connaissions mieux les
+Mais ces méfaits de la réminiscence nous apparaîtrait peut-être aussi grands
+dans l'histoire de l'édition antique, si nous connaissions mieux les détails
+techniques de cette histoire. Homère fut durant vingt siècles l'auteur le plus
+lu, le livre de classe le plus répandu sur toute la surface du monde
+gréco-latin : pour le recopier en des milliers et milliers d'exemplaires, il dut
+exister des ateliers, où des mercenaires, le plus souvent des esclaves ou des
+affranchis, fabriquaient « en série » Iliades et Odyssées ; un lecteur ou un
+récitant y dictait à haute voix le texte que copiait une équipe ; telles fautes,
+que nous rencontrons dans nos manuscrits, ne peuvent pas s'expliquer autrement.
 
-détails techniques de cette histoire. Homère fut durant vingt siècles l'auteur le plus lu, le livre de classe le plus répandu sur toute la surface du monde gréco-latin : pour le recopier en des milliers et milliers d'exemplaires, il dut exister des ateliers, où des mercenaires, le plus souvent des esclaves ou des affranchis, fabriquaient « en série » Iliades et Odyssées ; un lecteur ou un récitant y dictait à haute voix le texte que copiait une équipe ; telles fautes, que nous rencontrons dans nos manuscrits, ne peuvent pas s'expliquer autrement.
+Est-il invraisemblable que scribes et lecteur, spécialisés en cette fabrication
+et passant toutes les heures de leur vie à ce travail unique, aient eu bientôt
+la mémoire aussi farcie d'Homère que celle des rhapsodes ? Parfois, souvent,
+devaient se dérouler dans leur dictée ou dans leur copie les mêmes séquences
+involontaires que dans la récitation publique.
 
-Est-il invraisemblable que scribes et lectur, spécialisés en cette fabrication et passant toutes les heures de leur vie à ce travail unique, aient eu bientôt la mémoire aussi farcie d'Homère que celle des rhapsodes ? Parfois, souvent, devaient se dérouler dans leur dictée ou dans leur copie les mêmes séquences involontaires que dans la récitation publique.
+Les rhapsodes étaient les plus sottes gens du monde, nous dit Xénophon dans le
+Banquet (III 6). Autant que nous pouvons connaître les éditeurs athéniens et
+préalexandrins d'Homère, c'est le dernier des reproches que l'on doive songer à
+leur faire : ils semblent avoir exercé, jusqu'aux limites permises, et même au
+delà, leur double métier de diorthontes (correcteurs de textes) et de
+bibliopoles (vendeurs de livres) ; leur finesse d'interprétateurs également leur
+adresse de commerçants... Les habiletés et profits du métier les ont-ils incités
+aux « extensions » qui grossissaient le volume et en augmentaient le prix, selon
+le chiffre de vers inscrit à la fin de chaque chant ?
 
-Les rhapsodes étaient les plus sottes gens du monde, nous dit Xénophon dans le Banquet (III 6). Autant que nous pouvons connaître les éditeurs athéniens et préalexandrins d'Homère, c'est le dernier des reproches que l'on doive songer à leur faire : ils semblent avoir exercé, jusqu'aux limites permises, et même au delà, leur double métier de diorthontes (correcteurs de textes) et de bibliopoles (vendeurs de livres); leur finesse d'interprétateurs également leur adresse de commerçants... Les habi-
+Il arrivait aux copistes d'alors, comme à ceux d'aujourd'hui, d'oublier ou de
+négliger une ligne, un couple ; les seules copies soigneusement revues n'avaient
+jamais de ces manques. On pouvait donc mettre au compte et à la louange d'une
+copie nouvelle la présence de vers que les autres Homères ne portaient pas en
+cet endroit, mais qu'ils portaient en d'autres et qui, donc, n'en étaient pas
+moins, dans l'ensemble et dans tous les mots, authentiquement homériques : la
+seule négligence ou erreur des scribes, — disait-on, — les avait fait oublier
+dans les autres éditions.
 
-letés et profits du métier les ont-ils incités aux
-« extensions » qui grossissaient le volume et en
-augmentaient le prix, selon le chiffre de vers inscrit
-à la fin de chaque chant ?
-Il arrivait aux copistes d'alors, comme à ceux
-d'aujourd'hui, d'oublier ou de négliger une ligne,
-un couple ; les seules copies soigneusement revues n'avaient jamais de ces manques. On pouvait donc mettre au compte et à la louange d'une copie nouvelle la présence de vers que les autres Homères ne portaient pas en cet endroit, mais qu'ils portaient en d'autres et qui, donc, n'en étaient pas moins, dans l'ensemble et dans tous les mots, authentiquement homériques : la seule négligence ou erreur des scribes, — disait-on, — les avait fait oublier dans les autres éditions.
-Quand la mode de Pergame l'emporta sur la critique d'Alexandrie, le public devint, sans doute,
-de plus en plus soucieux de n'acheter que des Homères complets, non élagués ni mutilés. « Ne pas enlever un seul vers au Poète » ; avoir des copies « que n'eût raccourcies aucune « dicrthose » : le libraire-éditeur dut considérer cette double règle comme la première condition du succès commercial;
-l'Homère complet, — voire complété, « revu et augmenté », — « se vendait » ; copiste et libraire faisaient leurs affaires, si, au bout de leurs chants homériques, ils pouvaient inscrire le plus beau total de vers « légitimes ».
+Quand la mode de Pergame l'emporta sur la critique d'Alexandrie, le public
+devint, sans doute, de plus en plus soucieux de n'acheter que des Homères
+complets, non élagués ni mutilés. « Ne pas enlever un seul vers au Poète » ;
+avoir des copies « que n'eût raccourcies aucune « diorthose » : le
+libraire-éditeur dut considérer cette double règle comme la première condition
+du succès commercial; l'Homère complet, — voire complété, « revu et augmenté »,
+— « se vendait » ; copiste et libraire faisaient leurs affaires, si, au bout de
+leurs chants homériques, ils pouvaient inscrire le plus beau total de vers
+« légitimes ».
 
-Je ne doute pas que, dès le temps des éditeurs ou copistes athéniens, aux ve et ive siècles avant notre ère, un très grand nombre de nos insertions n'aient eu cette origine industrielle : le profit immédiat, le gain sonnant a toujours été l'un des plus puissants moteurs de la vie hellénique. Avant comme après les Alexandrins, les préférences et les exigences du gros public durent faire foisonner le texte homérique dans les éditions « communes », « populaires », « vulgaires », qui revivent en nombre de nos papyri.
+Je ne doute pas que, dès le temps des éditeurs ou copistes athéniens, aux Ve et
+IVe siècles avant notre ère, un très grand nombre de nos insertions n'aient eu
+cette origine industrielle : le profit immédiat, le gain sonnant a toujours été
+l'un des plus puissants moteurs de la vie hellénique. Avant comme après les
+Alexandrins, les préférences et les exigences du gros public durent faire
+foisonner le texte homérique dans les éditions « communes », « populaires »,
+« vulgaires », qui revivent en nombre de nos papyri.
 
-Les Alexandrins et leurs successeurs avaient sous les yeux une édition de l'Iliade qu'ils appelaient couramment la Polystique, la Plurale, de même qu'ils en appelaient d'autres les Urbaines, les Vieilles, la Cyclique, la Marseillaise, etc. De quand datait, de qui était cette Iliade « plurale » ? Eustathe nous raconte comment un certain Timolaos de Larissa avait doublé, vers par vers, tout le poème, en ajoutant un hexamètre de son cru derrière chaque vers homérique. Un autre versificateur avait mieux fait encore : il avait récrit toute l'Iliade, non pas en rondeaux, mais en distiques, en ajoutant un pentamètre de sa main derrière chaque hexamètre du Poète.
+Les Alexandrins et leurs successeurs avaient sous les yeux une édition de
+l'Iliade qu'ils appelaient couramment la Polystique, la Plurale, de même qu'ils
+en appelaient d'autres les Urbaines, les Vieilles, la Cyclique, la Marseillaise,
+etc. De quand datait, de qui était cette Iliade « plurale » ? Eustathe nous
+raconte comment un certain Timolaos de Larissa avait doublé, vers par vers, tout
+le poème, en ajoutant un hexamètre de son cru derrière chaque vers homérique. Un
+autre versificateur avait mieux fait encore : il avait récrit toute l'Iliade,
+non pas en rondeaux, mais en distiques, en ajoutant un pentamètre de sa main
+derrière chaque hexamètre du Poète.
 
-Les Anciens ne nous parlent pas d'une Odyssee « polystique ». Néanmoins, certains passages de notre Vulgate semblent garder la trace d'entreprises toutes semblables au poème de Timolaos. Le
+Les Anciens ne nous parlent pas d'une Odyssée « polystique ». Néanmoins,
+certains passages de notre Vulgate semblent garder la trace d'entreprises toutes
+semblables au poème de Timolaos. Le plus bel exemple nous serait fourni par les
+questions d'Alkinoos à la fin du chant VIII et la réponse d'Ulysse au début du
+chant IX.
 
-plus bel exemple nous serait fourni par les questions d'Alkinoos à la fin du chant VIII et la réponse d'Ulysse au début du chant IX.
+La seule longueur de cet interrogatoire met le lecteur en défiance. Les
+condamnations alexandrines et les apologies pergaméennes augmentent encore cette
+inquiétude. Mais la puérilité ou la sottise de certains vers est le meilleur des
+indices. Sur les 45 derniers vers du chant VIII, il en est 34 qui sont d'une
+« bâtardise » certaine ; c'est comme une alternance de vers authentiques et
+d'insertions ou d'interpolations. Alkinoos prend la parole :
 
-La seule longueur de cet interrogatoire met le lecteur en défiance. Les condamnations alexandrines et les apologies pergaméennes augmentent encore cette inquiétude. Mais la puérilité ou la sottise de certains vers est le meilleur des indices. Sur les 45 derniers vers du chant VIII, il en est 34 qui sont d'une « bâtardise » certaine ; c'est comme une alternance de vers authentiques et d'insertions ou d'interpolations. Alkinoos prend la parole :
+  I. — _Début authentique_ :
 
-I. — Début authentique :
-Doges et conseillers de Phéacie, deux mots. C'est assez pour l'aède ! laisse, ô Démodocos, la cithare au chant clair ! Car peut-être ces chants ne plaisent pas à tous. Je vois qu'en ce repas, les sanglots de douleur n'ont pas quitté notre hôte, depuis que s'est levé notre aède divin : il faut qu'un grand chagrin ait envahi son âme ! Donc, assez pour l'aède ! inviteur, invités, je veux la joie de tous : n'est-ce pas mieux ainsi ? Si nous sommes ici, c'est pour fêter notre hôte.
+  Doges et conseillers de Phéacie, deux mots. C'est assez pour l'aède ! laisse,
+  ô Démodocos, la cithare au chant clair ! Car peut-être ces chants ne plaisent
+  pas à tous. Je vois qu'en ce repas, les sanglots de douleur n'ont pas quitté
+  notre hôte, depuis que s'est levé notre aède divin : il faut qu'un grand
+  chagrin ait envahi son âme ! Donc, assez pour l'aède ! inviteur, invités, je
+  veux la joie de tous : n'est-ce pas mieux ainsi ? Si nous sommes ici, c'est
+  pour fêter notre hôte.
 
-II. — Trois vers bâtards :
-Tout est prêt maintenant, le départ, les cadeaux qu'à l'ami nous offrons : l'hôte et le suppliant ne sont-ils pas des frères, pour peu que l'on conserve au cœur quelque sagesse ?
+  II. — _Trois vers bâtards_ :
 
-III. — Trois vers authentiques :
-Mais à ton tour, mon hôte, il faut ne rien cacher : sans feinte, réponds-moi ; rien ne vaut la franchise.
+  Tout est prêt maintenant, le départ, les cadeaux qu'à l'ami nous offrons :
+  l'hôte et le suppliant ne sont-ils pas des frères, pour peu que l'on conserve
+  au cœur quelque sagesse ?
 
-Dis-nous quel est le nom que là-bas te donnaient et ton père et ta mère...
+  III. — _Trois vers authentiques_ :
 
-IV. — Quatre vers bâtards :
-et tous ceux de ta ville et de vos alentours ; car jamais on ne vit qu'un homme fût sans nom ; qu'on soit noble ou vilain, chacun en reçoit un le jour de sa naissance : aux enfants, sitôt nés, c'est le don des parents.
+  Mais à ton tour, mon hôte, il faut ne rien cacher : sans feinte, réponds-moi ;
+  rien ne vaut la franchise. Dis-nous quel est le nom que là-bas te donnaient et
+  ton père et ta mère...
 
-V. — Un vers authentique :
-Dis-nous quelle est ta terre et ton peuple et ta ville...
+  IV. — _Quatre vers bâtards_ :
 
-VI. — Dix-sept vers bâtards ou insérés :
-où devront te porter nos vaisseaux phéaciens qui, doués de raison, voguent sans le pilote et sans le gouvernail qu'ont les autres navires ; ils savent deviner, d'eux-mêmes, les désirs et les pensées des hommes ; connaissant les cités et les grasses campagnes du monde tout entier, ils font leur traversée sur le gouffre des mers, sans craindre ni la moindre avarie ni la perte, dans les brumes et les nuées qui les recouvrent. Mais voici quel avis autrefois me donna Nausithoos, mon père : Poseidon, disait-il, nous en voudrait un jour de notre renommée d'infaillibles passeurs et, lorsque rentrerait de quelque reconduite un solide croiseur du peuple phéacien, le dieu le briserait dans la brume des mers, puis couvrirait le bourg du grand mont qui l'en-cercle. Ces discours du vieillard en verrons-nous l'effet ? resteront-ils sans suite ? C'est le secret des dieux. Mais, voyons, point par point, sans feinte, conte-moi...
+  et tous ceux de ta ville et de vos alentours ; car jamais on ne vit qu'un
+  homme fût sans nom ; qu'on soit noble ou vilain, chacun en reçoit un le jour
+  de sa naissance : aux enfants, sitôt nés, c'est le don des parents.
 
-VII. — Un vers authentique :
-les lieux où tu erras, les contrées que tu vis,
+  V. — _Un vers authentique_ :
 
-VIII. — Trois vers insérés :
-les moeurs des habitants, la beauté de leurs villes ;
-étaient-ce des sauvages, des bandits sans justice,
-ou des gens accueillants, qui respectent les dieux ?
+  Dis-nous quelle est ta terre et ton peuple et ta ville...
 
-IX. — Un vers authentique :
-Dis-moi pourquoi ces pleurs, ce chagrin de ton âme...
+  VI. — _Dix-sept vers bâtards ou insérés_ :
 
-X. — Trois vers bâtards :
-en entendant le sort des héros danaens et des gens
-d'Ilion ?... C'est l'ouvrage des dieux : s'ils ont filé
-la mort à tant de ces humains, c'est pour fournir
-des chants aux gens de l'avenir.
+  où devront te porter nos vaisseaux phéaciens qui, doués de raison, voguent
+  sans le pilote et sans le gouvernail qu'ont les autres navires ; ils savent
+  deviner, d'eux-mêmes, les désirs et les pensées des hommes ; connaissant les
+  cités et les grasses campagnes du monde tout entier, ils font leur traversée
+  sur le gouffre des mers, sans craindre ni la moindre avarie ni la perte, dans
+  les brumes et les nuées qui les recouvrent. Mais voici quel avis autrefois me
+  donna Nausithoos, mon père : Poseidon, disait-il, nous en voudrait un jour de
+  notre renommée d'infaillibles passeurs et, lorsque rentrerait de quelque
+  reconduite un solide croiseur du peuple phéacien, le dieu le briserait dans la
+  brume des mers, puis couvrirait le bourg du grand mont qui l'encercle. Ces
+  discours du vieillard en verrons-nous l'effet ? resteront-ils sans suite ?
+  C'est le secret des dieux. Mais, voyons, point par point, sans feinte,
+  conte-moi...
 
-XI. — Un vers authentique :
-As-tu sous Ilion perdu quelque allié ?
+  VII. — _Un vers authentique_ :
 
-XII. — Deux vers bâtards :
-un bcau-frère, un beau-père ? quelqu'un de ces
-amis que l'on aime le mieux après son propre sang
-et sa propre famille ?
+  les lieux où tu erras, les contrées que tu vis,
 
-XIII. — Un vers authentique :
-ou quelque compagnon loyal et dévoué ?
+  VIII. — _Trois vers insérés_ :
 
-XIV. — Deux vers bâtards :
-Un brave compagnon, toujours plein de sagesse,
-ce n'est pas moins qu'un frère.
+  les mœurs des habitants, la beauté de leurs villes ; étaient-ce des sauvages,
+  des bandits sans justice, ou des gens accueillants, qui respectent les dieux ?
 
-Vers par vers, mot par mot, il serait facile de
-montrer que ces vers étrangers n'ont rien de com-
-mun avec la langue et le style homériques. En
-outre, les uns sont omis par certains de nos manus-
-crits ; d'autres sont critiqués et « athétisés » par
-les Anciens, et la plupart sont des plus sottes
+  IX. — _Un vers authentique_ :
 
+  Dis-moi pourquoi ces pleurs, ce chagrin de ton âme...
+
+  X. — Trois vers bâtards :
+
+  en entendant le sort des héros danaens et des gens d'Ilion ?... C'est
+  l'ouvrage des dieux : s'ils ont filé la mort à tant de ces humains, c'est pour
+  fournir des chants aux gens de l'avenir.
+
+  XI. — _Un vers authentique_ :
+
+  As-tu sous Ilion perdu quelque allié ?
+
+  XII. — Deux vers bâtards :
+
+  un beau-frère, un beau-père ? quelqu'un de ces amis que l'on aime le mieux
+  après son propre sang et sa propre famille ?
+
+  XIII. — _Un vers authentique_ :
+
+  ou quelque compagnon loyal et dévoué ?
+
+  XIV. — _Deux vers bâtards_ :
+
+  Un brave compagnon, toujours plein de sagesse, ce n'est pas moins qu'un frère.
+
+Vers par vers, mot par mot, il serait facile de montrer que ces vers étrangers
+n'ont rien de commun avec la langue et le style homériques. En outre, les uns
+sont omis par certains de nos manuscrits ; d'autres sont critiqués et
+« athétisés » par les Anciens, et la plupart sont des plus sottes
 « Lapalissades » qu’ait jamais proférées bouche humaine.
 
-Mais calculs, ruses, malfaçons ou pastiches, tout ce travail conscient des faussaires eut moins d'effets peut-être que certaines méprises, dont les scribes de l'antiquité plus récente furent, je crois, les premières victimes : nombre d'insertions sont venues, comme d'elles-mêmes, s'imposer à leurs yeux, plus encore qu'à leur mémoire ; elles étaient dans la marge de leur modèle ; c'est de bonne foi qu'ils les firent passer dans le texte du Poète.
 
-Une édition antique d'Homère était souvent un indiscernable mélange : le texte occupait le centre des pages ; mais tout autour, en haut, en bas, à droite, à gauche, en lignes serrées, en phrases abrégées, se pressait un commentaire, — une collection de scholies, — qui, souvent, envahissait jusqu'aux interlignes du texte, lequel était accompagné par-fois d'une « paraphrase », d'une traduction en langage du jour. Tel manuscrit de l'Escurial peut nous offrir le plus beau spécimen de ce fouillis inextricable ; on y trouve :
+Mais calculs, ruses, malfaçons ou pastiches, tout ce travail conscient des
+faussaires eut moins d'effets peut-être que certaines méprises, dont les scribes
+de l'antiquité plus récente furent, je crois, les premières victimes : nombre
+d'insertions sont venues, comme d'elles-mêmes, s'imposer à leurs yeux, plus
+encore qu'à leur mémoire ; elles étaient dans la marge de leur modèle ; c'est de
+bonne foi qu'ils les firent passer dans le texte du Poète.
 
-1° des citations de l'Iliade et de l'Odyssée, les unes servant à expliquer les mots ou les formules du texte central, ses particularités grammaticales ou syntaxiques, et les autres venant, comme termes de comparaison, illustrer ou compléter le morceau;
+Une édition antique d'Homère était souvent un indiscernable mélange : le texte
+occupait le centre des pages ; mais tout autour, en haut, en bas, à droite, à
+gauche, en lignes serrées, en phrases abrégées, se pressait un commentaire, —
+une collection de scholies, — qui, souvent, envahissait jusqu'aux interlignes du
+texte, lequel était accompagné parfois d'une « paraphrase », d'une traduction en
+langage du jour. Tel manuscrit de l'Escurial peut nous offrir le plus beau
+spécimen de ce fouillis inextricable ; on y trouve :
 
-2° des emprunts aux Mémoires alexandrins ou
+1° des citations de l'Iliade et de l'Odyssée, les unes servant à expliquer les
+mots ou les formules du texte central, ses particularités grammaticales ou
+syntaxiques, et les autres venant, comme termes de comparaison, illustrer ou
+compléter le morceau;
 
-à ces Glossaires atheniens, où les mots difficiles, désuets ou même incompris étaient catalogués, comparés et souvent élucidés par les citations de l'une ou de l'autre Poésie;
+2° des emprunts aux Mémoires alexandrins ou à ces Glossaires athéniens, où les
+mots difficiles, désuets ou même incompris étaient catalogués, comparés et
+souvent élucidés par les citations de l'une ou de l'autre Poésie;
 
-3° des citations épiques, tirées soit des autres poèmes attribués à Homère, — en particulier des Hymnes, — soit d'Hésiode ou du Cycle épique;
+3° des citations épiques, tirées soit des autres poèmes attribués à Homère, — en
+particulier des Hymnes, — soit d'Hésiode ou du Cycle épique;
 
-4° des citations de tous les auteurs qui, de près ou de loin, avaient imité Homère, en particulier des Tragiques et des Comiques;
+4° des citations de tous les auteurs qui, de près ou de loin, avaient imité
+Homère, en particulier des Tragiques et des Comiques;
 
-5° une traduction, soit en prose, soit en vers, soit sérieuse et exacte, soit parodique ou fantaisiste du texte antique en langue du jour.
+5° une traduction, soit en prose, soit en vers, soit sérieuse et exacte, soit
+parodique ou fantaisiste du texte antique en langue du jour.
 
-Est-il surprenant que le voisinage, puis l'invasion de ces notes marginales et interlinéaires aient introduit dans le texte recopié des mots, des formes, des vers « surnuméraires », dont la présence devrait aujourd'hui nous scandaliser ? et, comme conclusion générale, est-il exagéré de dire que, dans ce foisonnement d'insertions, l'œuvre de l'écrivain, — commentateur, éditeur ou copiste, — fut au moins égale à celle du récitant?
+Est-il surprenant que le voisinage, puis l'invasion de ces notes marginales et
+interlinéaires aient introduit dans le texte recopié des mots, des formes, des
+vers « surnuméraires », dont la présence devrait aujourd'hui nous scandaliser ?
+et, comme conclusion générale, est-il exagéré de dire que, dans ce foisonnement
+d'insertions, l'œuvre de l'écrivain, — commentateur, éditeur ou copiste, — fut
+au moins égale à celle du récitant?
 
-**
+                                       *
+                                      * *
 
-Nos philologues ont emprunté au latin le mot mystérieux, mais sonore d'interpolation, pour désigner les vers ou les morceaux que les Alexandrins appelaient « bâtards ».
+Nos philologues ont emprunté au latin le mot mystérieux, mais sonore
+d'interpolation, pour désigner les vers ou les morceaux que les Alexandrins
+appelaient « bâtards ».
 
-Les interpolations sont d'une tout autre origine
+Les interpolations sont d'une tout autre origine et d'une tout autre nature que
+les insertions. Elles ne comportent pas seulement un vers ou quelques vers
+isolés, cinq ou six paires au plus de vers répétés : elles forment, d'ordinaire,
+des blocs assez imposants, il en est parfois d'énormes, qui dépassent 4 et 500
+vers suivis. Elles sont l'ouvrage conscient et trompeur de faussaires ou de
+pasticheurs, qui fabriquaient de l'Homère, comme aujourd'hui il est des
+fabricants de Corots ou de Millets. Elles ne datent pas d'une seule époque ;
+elles sont venues s'introduire successivement par les soins des rhapsodes, des
+éditeurs, des commentateurs même, durant les dix ou douze siècles de l'antiquité
+hellénique, hellénistique et même gréco-romaine. La plupart, néanmoins, sont
+antérieures au temps où les Alexandrins les stigmatisèrent de leur marque
+d'infamie. Ici encore, ni la fantaisie ou le goût personnels, ni de simples
+théories littéraires ne dictaient leurs condamnations. Ils avaient sous les yeux
+des Homères, où ne figuraient pas tels épisodes que nos éditions d'aujourd'hui
+incorporent soigneusement au texte du Poète, que nos historiens de la
+littérature grecque défendent contre toute suspicion d'origine et que nos
+professeurs font consciencieusement admirer à leurs étudiants ou élèves. Dans
+l'Iliade, tout le « Catalogue des Vaisseaux » (chant II, vers 484-877) et toute
+la « Dolonie » (chant X, vers 1-579) étaient de cette sorte : ces 976 vers
+peuvent être détachés de la Poésie sans y laisser le moindre trou ; il est hors
+de doute qu'ils y ont été rajoutés.
 
-et d'une tout autre nature que les insertions. Elles ne comportent pas seulement un vers ou quelques vers isolés, cinq ou six paires au plus de vers répétés : elles forment, d'ordinaire, des blocs assez imposants, il en est parfois d'enormes, qui dépassent 4 et 500 vers suivis. Elles sont l'ouvrage conscient et trompeur de faussaires ou de pasticheurs, qui fabriquaient de l'Homère, comme aujourd'hui il est des fabricants de Corots ou de Millets. Elles ne datent pas d'une seule époque ; elles sont venues s'introduire successivement par les soins des rhapsodes, des éditeurs, des commentateurs même, durant les dix ou douze siècles de l'antiquité hellénique, hellénistique et même grécoromaine. La plupart, néanmoins, sont antérieures au temps où les Alexandrins les stigmatisèrent de leur marque d'infamie. Ici encore, ni la fantaisie ou le goût personnels, ni de simples théories littéraires ne dictaient leurs condamnations. Ils avaient sous les yeux des Homères, où ne figuraient pas tels épisodes que nos éditions d'aujourd'hui incorporent soigneusement au texte du Poète, que nos historiens de la littérature grecque défendent contre toute suspicion d'origine et que nos professeurs font consciencieusement admirer à leurs étudiants ou élèves. Dans l'Iliade, tout le « Catalogue des Vaisseaux » (chant II, vers 484-877) et toute la « Dolonie » (chant X, vers 1-579) étaient de cette sorte : ces 976 vers peuvent être détachés
+De même, Aristarque et Aristophane de Byzance avaient des Odyssées, qui
+s'arrêtaient au vers 296 du chant XXIII et ne comportaient donc ni les 76
+derniers vers de ce chant ni les 548 vers du chant XXIV : certains de nos
+manuscrits byzantins portent encore au vers 296 du chant XXIII la note : Fin de
+l'Odyssée. En d'autres Odyssées, les Alexandrins constataient l'absence au chant
+VIII, vers 266-369, de ces Amours d'Arès et d'Aphrodite, dont le fond scandaleux
+passait les bornes de l'impiété et de l'inconvenance et dont le ton ironique ou
+parodique, le style et la langue même dénonçaient — et dénoncent — à première
+lecture la « bâtardise » incontestable. Dès le VIe siècle avant notre ère, cet
+« hymne » étrange intriguait et scandalisait, tout ensemble, les Sages d'Ionie.
 
-de la Poésie sans y laisser le moindre trou ; il est hors de doute qu'ils y ont été rajoutés.
 
-De même, Aristarque et Aristophane de Byzance avaient des Odyssées, qui s'arrêtaient au vers 296 du chant XXIII et ne comportaient donc ni les 76 derniers vers de ce chant ni les 548 vers du chant XXIV : certains de nos manuscrits byzantins portent encore au vers 296 du chant XXIII la note : Fin de l'Odyssée. En d'autres Odyssées, les Alexandrins constataient l'absence au chant VIII, vers 266-369, de ces Amours d'Arès et d'Aphrodite, dont le fond scandaleux passait les bornes de l'impiété et de l'inconvenance et dont le ton ironique ou parodique, le style et la langue même dénonçaient — et dénoncent — à première lecture la « bâtardise » incontestable. Dès le VIe siècle avant notre ère, cet « hymne » étrange intriguait et scandalisait, tout ensemble, les Sages d'Ionie.
-LE TEXTE HOMÉRIQUE 141
+TODO: CONTINUER ICI
 
-de la Poésie sans y laisser le moindre trou ; il est hors de doute qu'ils y ont été rajoutés.
 
-De même, Aristarque et Aristophane de Byzance avaient des Odyssées, qui s'arrêtaient au vers 296 du chant XXIII et ne comportaient donc ni les 76 derniers vers de ce chant ni les 548 vers du chant XXIV : certains de nos manuscrits byzantins portent encore au vers 296 du chant XXIII la note : Fin de l'Odyssée. En d'autres Odyssées, les Alexandrins constataient l'absence au chant VIII, vers 266-369, de ces Amours d'Arès et d'Aphrodite, dont le fond scandaleux passait les bornes de l'impiété et de l'inconvenance et dont le ton ironique ou parodique, le style et la langue même dénonçaient — et dénoncent — à première lecture la « bâtardise » incontestable. Dès le VIe siècle avant notre ère, cet « hymne » étrange intriguait et scandalisait, tout ensemble, les Sages d'Ionie.
-
-V
-
-DEVANT LE PUBLIC.
+V. DEVANT LE PUBLIC.
+--------------------
 
 En lisant aujourd'hui les Poésies homériques, il faut ne jamais oublier qu'entre les temps ioniens, où elles furent composées pour un auditoire, et les temps modernes, où elles furent livrées par les manuscrits à nos imprimeurs, il s'écoula vingt-trois ou vingt-quatre siècles, durant lesquels soixante-dix générations se piquèrent d'étudier, de connaître et d'imiter le Poète, de fabriquer, en hexamètres épiques (certains de nos manuscrits byzantins nous en citent du xiie siècle après J.-C.), des batailles ou des aventures sur le modèle de l'Iliade ou de l'Odyssée.
 
