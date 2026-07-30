@@ -1867,7 +1867,13 @@ retrouvent les caractères de la diction épique : mieux encore, la traduction 
 l'Odyssée, commencée par Fénelon, fait éclater la différence entre la perfection
 de son Télémaque et celle de nos Récits d'Ulysse.
 
-On ne voit pas, on n'entend pas un aède récitant devant un auditoire de seigneurs achéens les chants les plus achevés du cygne de Cambrai : _Calypso ne pouvait se consoler du départ d'Ulysse... Le fleuve Bétis coule dans un pays fertile et sous un ciel doux, qui est toujours serein.. Télémaque charmé lui fit diverses questions curieuses : « Ces peuples, lui dit-il, boivent-ils du vin ? — Ils n'ont garde d'en boire, reprit Adoum, car ils n'ont jamais voulu en faire..._
+On ne voit pas, on n'entend pas un aède récitant devant un auditoire de 
+seigneurs achéens les chants les plus achevés du cygne de Cambrai : _Calypso ne 
+pouvait se consoler du départ d'Ulysse... Le fleuve Bétis coule dans un pays 
+fertile et sous un ciel doux, qui est toujours serein.. Télémaque charmé lui fit 
+diverses questions curieuses : « Ces peuples, lui dit-il, boivent-ils du vin ? 
+— Ils n'ont garde d'en boire, reprit Adoum, car ils n'ont jamais voulu en 
+faire...
 
 Malgré les cadences variées qui balancent les phrases de Fénelon, cette suite de
 nobles causeries, de poétiques descriptions, d'homélies politiques ou morales,
@@ -1978,7 +1984,13 @@ qui sort brusquement de la braise « où l'on conserve la semence du feu ». L
 « feu infatigable » ne dit rien à nos sens ni à notre esprit. La « danse de la
 flamme » m'a paru évoquer l'image de façon plus exacte :
 
-  Des lignes de fleurs blanches, toutes se suivant une à une, décrivaient sur la terre couleur d'azur de longues paraboles, comme des fusées d'étoiles. Les buissons pleins de ténèbres exhalaient des odeurs chaudes, mielleuses. Il y avait des troncs d'arbre barbouillés de cinabre qui ressemblaient à des colonnes sanglantes ; au milieu, douze piédestaux de cuivre portaient chacun une grosse boule de verre, et des lueurs rougeâtres emplissaient confusément ces globes creux, comme d'énormes prunelles qui palpiteraient encore...
+  Des lignes de fleurs blanches, toutes se suivant une à une, décrivaient sur la 
+  terre couleur d'azur de longues paraboles, comme des fusées d'étoiles. Les 
+  buissons pleins de ténèbres exhalaient des odeurs chaudes, mielleuses. Il 
+  y avait des troncs d'arbre barbouillés de cinabre qui ressemblaient à des 
+  colonnes sanglantes ; au milieu, douze piédestaux de cuivre portaient chacun 
+  une grosse boule de verre, et des lueurs rougeâtres emplissaient confusément 
+  ces globes creux, comme d'énormes prunelles qui palpiteraient encore...
 
 Ces admirables phrases de Salammbô ne sonnent aux oreilles de notre grand public
 que comme un exercice de « littérature » ou un étalage d'érudition. Même pour
