@@ -1,2 +1,2 @@
 vim-correction:
-	vim -S corrections.vim ./bérard.txt
+	vim -S corrections.vim ./ocr.txt
