@@ -1,0 +1,3 @@
+[submodule "corty.vim"]
+	path = corty.vim
+	url = git@github.com:sylsau/corty.vim
