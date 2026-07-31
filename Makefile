@@ -1,4 +1,4 @@
 vim-correction:
-	vim -S corrections.vim ./ocr.txt
+	./corty.vim/corty.vim ./ocr.txt
 fmt-check:
 	fmt -w80 ./ocr.txt | less
