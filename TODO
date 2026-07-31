@@ -1,2 +1,8 @@
 - refaire le formattage des paragraphes en partie 1.I et 1.II
-- tester les possibilités de formattage avec vim et 'formatoptions'
+- revoir l'espacement des paragraphes dans tout l'ouvrage
+- pour finir :
+	-:LangTool
+	- vimdiff formattage vim (Qgg) et fmt -w80
+- Nouvelles règles :
+	- sur les titres ? faire une barre de soulignement large pour éviter les problèmes avec fmt?
+- A explorer : pptext
