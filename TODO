@@ -5,4 +5,7 @@
 	- vimdiff formattage vim (Qgg) et fmt -w80
 - Nouvelles règles :
 	- sur les titres ? faire une barre de soulignement large pour éviter les problèmes avec fmt?
-- A explorer : pptext
+	- nbp ? où les mettre ???
+	- tirets cadratins??
+- A noter :
+	- pptext : très bien fait et utile !
