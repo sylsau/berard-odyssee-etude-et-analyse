@@ -1,3 +1,6 @@
 [submodule "corty.vim"]
 	path = corty.vim
 	url = git@github.com:sylsau/corty.vim
+[submodule "corty.vim"]
+	path = pptext
+	url = git@github.com:DistributedProofreaders/pptext
