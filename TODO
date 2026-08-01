@@ -1,5 +1,6 @@
-- refaire le formattage des paragraphes en partie 1.I et 1.II
 - revoir l'espacement des paragraphes dans tout l'ouvrage
+- revoir les sous-titres soulignés là
+	_Truc muche III_ -- ....
 - pour finir :
 	-:LangTool
 	- vimdiff formattage vim (Qgg) et fmt -w80
@@ -7,5 +8,8 @@
 	- sur les titres ? faire une barre de soulignement large pour éviter les problèmes avec fmt?
 	- nbp ? où les mettre ???
 	- tirets cadratins??
+	- deux styles :
+		- doc technique, avec indentation des sections
+		- livre, sans indentation
 - A noter :
 	- pptext : très bien fait et utile !
